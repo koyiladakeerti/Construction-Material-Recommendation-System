@@ -1,0 +1,9 @@
+streamlit==1.27.0
+pandas
+numpy
+joblib
+scikit-learn
+bcrypt
+yfinance
+plotly
+google-generativeai

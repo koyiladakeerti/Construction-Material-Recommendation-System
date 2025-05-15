@@ -1,0 +1,1201 @@
+material_id,material_name,material_application,climate_zone,durability_requirement,budget_constraint,supplier_name,availability_status,lead_time_days,project_type,project_specifications_match_score,sustainability_focus,supplier_contact_number
+MAT2000,Limestone,Insulation,Moderate,50+ years,Premium,Supplier_41,Limited,1,Tunnels,0.55,Standard,+91 9088866000
+MAT2001,Marble,Flooring,Moderate,25-50 years,Standard,Supplier_20,Out of Stock,15,Residential,0.96,Standard,+91 9001555196
+MAT2002,Paint,Other,Dry,10-25 years,Economy,Supplier_16,Out of Stock,34,Infrastructure,0.1,Standard,+91 99613 85211
+MAT2003,Granite,Structural,Coastal,5-10 years,Standard,Supplier_29,Out of Stock,24,Commercial,0.76,Standard,+91 98383 03374
+MAT2004,Copper,Structural,Other,10-25 years,Luxury,Supplier_77,In Stock,31,Airports,0.46,Eco-friendly,+91 94166 37805
+MAT2005,Ceramic Tile,Insulation,Dry,50+ years,Economy,Supplier_86,Out of Stock,20,Bridges,0.86,Eco-friendly,+91 02225152767
+MAT2006,Adhesive,Structural,Mountain,5-10 years,Luxury,Supplier_19,Out of Stock,16,Residential,0.95,Eco-friendly,+91 9108202251
+MAT2007,Brick,Other,Rural,50+ years,Luxury,Supplier_23,Out of Stock,32,Other,0.38,Eco-friendly,+91 9057757757
+MAT2008,Wood,Insulation,Urban,10-25 years,Standard,Supplier_27,In Stock,45,High-rise buildings,0.36,Eco-friendly,+91 8524779487
+MAT2009,Clay,Insulation,Cold,25-50 years,Premium,Supplier_93,In Stock,14,Other,0.11,Eco-friendly,+91 9855480699
+MAT2010,Fiber,Insulation,Dry,10-25 years,Standard,Supplier_67,Out of Stock,12,High-rise buildings,0.65,Standard,+91 9814977268
+MAT2011,Glass,Finishing,Rural,50+ years,Economy,Supplier_73,Out of Stock,25,Residential,0.2,Eco-friendly,+91 9814977268
+MAT2012,Cement,Structural,Rural,25-50 years,Premium,Supplier_21,Out of Stock,29,Bridges,0.25,Eco-friendly,+91 8310234613
+MAT2013,Steel,Flooring,Urban,50+ years,Economy,Supplier_91,Out of Stock,52,Residential,0.54,Eco-friendly,+91 9064495443
+MAT2014,Aluminum,Flooring,Dry,25-50 years,Standard,Supplier_16,Limited,33,Infrastructure,0.9,Eco-friendly,+91 8065031990
+MAT2015,Gypsum,Facade,Cold,5-10 years,Economy,Supplier_42,Limited,60,Airports,0.08,Standard,+91 8406306174
+MAT2016,PVC,Decorative,Industrial,5-10 years,Standard,Supplier_27,Out of Stock,27,Other,0.18,Standard,+91 8524779487
+MAT2017,Bitumen,Structural,Rural,25-50 years,Luxury,Supplier_47,In Stock,40,Roads and highways,0.07,Eco-friendly,+91 7383612833
+MAT2018,Asphalt,Structural,Industrial,50+ years,Luxury,Supplier_40,In Stock,31,Marine structures,0.57,Standard,+91 9781709582
+MAT2019,Sandstone,Decorative,Mountain,25-50 years,Premium,Supplier_51,Limited,28,Commercial,0.78,Standard,+91 8070304578
+MAT2020,Concrete,Other,Dry,10-25 years,Economy,Supplier_29,In Stock,57,Commercial,0.2,Eco-friendly,+91 8289363518
+MAT2021,Plaster,Facade,Hot,50+ years,Luxury,Supplier_73,Limited,44,Infrastructure,0.18,Eco-friendly,+91 7195736923
+MAT2022,Vinyl,Insulation,Coastal,25-50 years,Luxury,Supplier_25,Limited,37,Roads and highways,0.86,Eco-friendly,+91 8713885374
+MAT2023,Laminate,Decorative,Moderate,5-10 years,Luxury,Supplier_40,Limited,26,Roads and highways,0.09,Eco-friendly,+91 9781709582
+MAT2024,Bamboo,Structural,Humid,50+ years,Economy,Supplier_11,Limited,26,Airports,0.86,Eco-friendly,+91 7562411160
+MAT2025,Recycled Plastic,Insulation,Mountain,10-25 years,Economy,Supplier_10,In Stock,60,Infrastructure,0.1,Eco-friendly,+91 9321334334
+MAT2026,Polycarbonate,Insulation,Other,25-50 years,Standard,Supplier_86,Limited,14,Commercial,0.8,Eco-friendly,+91 9450871641
+MAT2027,Acrylic,Decorative,Dry,5-10 years,Premium,Supplier_88,Out of Stock,2,Other,0.5,Eco-friendly,+91 7610179969
+MAT2028,Foam,Finishing,Coastal,10-25 years,Luxury,Supplier_62,In Stock,18,Airports,0.95,Eco-friendly,+91 9124597330
+MAT2029,Rubber,Other,Rural,50+ years,Standard,Supplier_46,In Stock,34,Marine structures,0.73,Standard,+91 9553802633
+MAT2030,Other,Insulation,Industrial,50+ years,Luxury,Supplier_92,In Stock,42,Airports,1,Standard,+91 8403005864
+MAT2031,Limestone,Facade,Coastal,10-25 years,Economy,Supplier_22,Limited,20,High-rise buildings,0.12,Eco-friendly,+91 9800188482
+MAT2032,Marble,Facade,Moderate,25-50 years,Standard,Supplier_92,Limited,5,Infrastructure,0.43,Standard,+91 8403005864
+MAT2033,Paint,Finishing,Humid,50+ years,Luxury,Supplier_43,In Stock,29,Other,0.54,Standard,+91 9038438301
+MAT2034,Granite,Other,Cold,50+ years,Luxury,Supplier_61,Out of Stock,37,Marine structures,0.31,Standard,+91 8696176323
+MAT2035,Copper,Finishing,Moderate,50+ years,Standard,Supplier_16,Limited,46,Tunnels,0.38,Standard,+91 8065031990
+MAT2036,Ceramic Tile,Structural,Industrial,50+ years,Standard,Supplier_35,In Stock,57,Roads and highways,0.43,Standard,+91 7672697773
+MAT2037,Adhesive,Other,Mountain,5-10 years,Premium,Supplier_8,Out of Stock,23,Other,0.37,Eco-friendly,+91 8464226483
+MAT2038,Brick,Structural,Coastal,5-10 years,Premium,Supplier_40,Out of Stock,48,Industrial plants,0.72,Eco-friendly,+91 9781709582
+MAT2039,Wood,Structural,Cold,10-25 years,Standard,Supplier_71,Out of Stock,2,Industrial plants,0.89,Eco-friendly,+91 9665352711
+MAT2040,Clay,Finishing,Hot,10-25 years,Premium,Supplier_80,Out of Stock,56,Airports,0.07,Standard,+91 8234607783
+MAT2041,Fiber,Finishing,Mountain,25-50 years,Luxury,Supplier_98,Out of Stock,37,Roads and highways,0.04,Eco-friendly,+91 9267705300
+MAT2042,Glass,Structural,Coastal,10-25 years,Standard,Supplier_15,Out of Stock,14,Other,0.01,Eco-friendly,+91 9855764195
+MAT2043,Cement,Structural,Coastal,25-50 years,Economy,Supplier_15,In Stock,6,Infrastructure,0.37,Standard,+91 9855764195
+MAT2044,Steel,Facade,Cold,5-10 years,Premium,Supplier_23,Limited,6,Residential,0.93,Standard,+91 9315879498
+MAT2045,Aluminum,Finishing,Moderate,10-25 years,Economy,Supplier_58,Limited,38,Infrastructure,0.54,Eco-friendly,+91 8538848385
+MAT2046,Gypsum,Flooring,Industrial,5-10 years,Economy,Supplier_77,In Stock,5,High-rise buildings,0.19,Eco-friendly,+91 9060217800
+MAT2047,PVC,Flooring,Moderate,10-25 years,Premium,Supplier_31,Out of Stock,8,Airports,0.19,Standard,+91 9023009642
+MAT2048,Bitumen,Finishing,Moderate,5-10 years,Economy,Supplier_77,Out of Stock,21,Residential,0.95,Standard,+91 9060217800
+MAT2049,Asphalt,Decorative,Cold,25-50 years,Premium,Supplier_46,Out of Stock,4,Marine structures,0.66,Eco-friendly,+91 9553802633
+MAT2050,Sandstone,Flooring,Rural,25-50 years,Luxury,Supplier_61,In Stock,12,Commercial,0.98,Standard,+91 8696176323
+MAT2051,Concrete,Other,Dry,50+ years,Luxury,Supplier_17,Limited,39,Commercial,0.56,Standard,+91 8388837996
+MAT2052,Plaster,Other,Hot,25-50 years,Luxury,Supplier_24,Limited,50,Roads and highways,0.73,Eco-friendly,+91 7116226044
+MAT2053,Vinyl,Facade,Urban,5-10 years,Luxury,Supplier_89,Out of Stock,41,Tunnels,0.27,Standard,+91 9969226517
+MAT2054,Laminate,Structural,Coastal,25-50 years,Premium,Supplier_2,Out of Stock,17,High-rise buildings,0.57,Standard,+91 9176504598
+MAT2055,Bamboo,Structural,Other,10-25 years,Standard,Supplier_74,Out of Stock,27,Tunnels,0.91,Standard,+91 7134476577
+MAT2056,Recycled Plastic,Structural,Humid,10-25 years,Economy,Supplier_66,In Stock,10,Tunnels,0.61,Standard,+91 8512956476
+MAT2057,Polycarbonate,Structural,Cold,25-50 years,Luxury,Supplier_34,Limited,12,Roads and highways,0.55,Standard,+91 7166009399
+MAT2058,Acrylic,Insulation,Moderate,5-10 years,Economy,Supplier_54,In Stock,37,Airports,0.89,Eco-friendly,+91 9458310307
+MAT2059,Foam,Facade,Mountain,50+ years,Economy,Supplier_28,Limited,56,Infrastructure,0.95,Standard,+91 8232645989
+MAT2060,Rubber,Structural,Coastal,50+ years,Premium,Supplier_39,Out of Stock,37,Marine structures,0.99,Eco-friendly,+91 8458974196
+MAT2061,Other,Decorative,Rural,50+ years,Economy,Supplier_41,Limited,3,Roads and highways,0.75,Eco-friendly,+91 7742047658
+MAT2062,Limestone,Decorative,Mountain,10-25 years,Standard,Supplier_8,Limited,44,Commercial,0.23,Standard,+91 8464226483
+MAT2063,Marble,Structural,Coastal,10-25 years,Premium,Supplier_48,Limited,39,Residential,0.64,Eco-friendly,+91 9115647592
+MAT2064,Paint,Flooring,Coastal,50+ years,Premium,Supplier_43,Out of Stock,23,Roads and highways,0.1,Eco-friendly,+91 9038438301
+MAT2065,Granite,Insulation,Hot,25-50 years,Economy,Supplier_89,In Stock,16,Industrial plants,0.69,Eco-friendly,+91 9969226517
+MAT2066,Copper,Finishing,Urban,5-10 years,Premium,Supplier_90,Out of Stock,39,Tunnels,0.34,Eco-friendly,+91 8844758293
+MAT2067,Ceramic Tile,Structural,Urban,50+ years,Standard,Supplier_46,Out of Stock,31,Commercial,0.71,Standard,+91 9553802633
+MAT2068,Adhesive,Other,Urban,25-50 years,Luxury,Supplier_28,In Stock,17,Infrastructure,0.1,Standard,+91 8232645989
+MAT2069,Brick,Insulation,Cold,10-25 years,Luxury,Supplier_24,In Stock,53,Commercial,0.93,Eco-friendly,+91 7116226044
+MAT2070,Wood,Insulation,Other,25-50 years,Luxury,Supplier_22,Out of Stock,60,Airports,0.11,Standard,+91 9800188482
+MAT2071,Clay,Facade,Cold,50+ years,Premium,Supplier_81,In Stock,9,Airports,0.49,Eco-friendly,+91 8900263885
+MAT2072,Fiber,Decorative,Hot,50+ years,Premium,Supplier_66,Limited,5,Tunnels,0.03,Eco-friendly,+91 8512956476
+MAT2073,Glass,Insulation,Dry,10-25 years,Premium,Supplier_19,In Stock,5,High-rise buildings,0.76,Standard,+91 7314006623
+MAT2074,Cement,Facade,Hot,10-25 years,Economy,Supplier_18,Limited,48,Commercial,0.09,Standard,+91 8911997440
+MAT2075,Steel,Decorative,Dry,5-10 years,Standard,Supplier_87,Out of Stock,41,Marine structures,0.79,Standard,+91 9193943710
+MAT2076,Aluminum,Decorative,Other,5-10 years,Economy,Supplier_63,In Stock,22,Industrial plants,0.79,Standard,+91 8654346090
+MAT2077,Gypsum,Facade,Coastal,5-10 years,Luxury,Supplier_79,Out of Stock,48,Marine structures,0.93,Eco-friendly,+91 9340848713
+MAT2078,PVC,Structural,Coastal,5-10 years,Premium,Supplier_26,Limited,36,Other,0.78,Eco-friendly,+91 7207132227
+MAT2079,Bitumen,Facade,Humid,5-10 years,Economy,Supplier_45,Out of Stock,56,Infrastructure,0.03,Eco-friendly,+91 9747014289
+MAT2080,Asphalt,Other,Hot,10-25 years,Economy,Supplier_80,Limited,32,Infrastructure,0.34,Eco-friendly,+91 8234607783
+MAT2081,Sandstone,Structural,Humid,5-10 years,Standard,Supplier_27,Out of Stock,4,Residential,0.97,Standard,+91 8524779487
+MAT2082,Concrete,Structural,Cold,5-10 years,Economy,Supplier_23,Limited,32,Airports,0.04,Eco-friendly,+91 9315879498
+MAT2083,Plaster,Finishing,Other,25-50 years,Luxury,Supplier_20,In Stock,27,Roads and highways,0.34,Eco-friendly,+91 7796737492
+MAT2084,Vinyl,Finishing,Moderate,5-10 years,Standard,Supplier_84,Limited,36,Commercial,0.05,Standard,+91 9340399355
+MAT2085,Laminate,Finishing,Moderate,50+ years,Economy,Supplier_41,Limited,21,Infrastructure,0.73,Standard,+91 7742047658
+MAT2086,Bamboo,Finishing,Industrial,10-25 years,Standard,Supplier_51,In Stock,22,Airports,0.19,Standard,+91 8070304578
+MAT2087,Recycled Plastic,Structural,Coastal,25-50 years,Luxury,Supplier_42,In Stock,60,High-rise buildings,0.21,Standard,+91 8406306174
+MAT2088,Polycarbonate,Insulation,Rural,50+ years,Luxury,Supplier_77,Limited,43,Bridges,0.05,Eco-friendly,+91 9060217800
+MAT2089,Acrylic,Insulation,Other,50+ years,Luxury,Supplier_98,In Stock,32,Marine structures,0.08,Eco-friendly,+91 9267705300
+MAT2090,Foam,Insulation,Mountain,25-50 years,Premium,Supplier_16,Limited,21,Tunnels,0.92,Eco-friendly,+91 8065031990
+MAT2091,Rubber,Finishing,Humid,50+ years,Standard,Supplier_86,In Stock,7,Other,0.37,Eco-friendly,+91 9450871641
+MAT2092,Other,Finishing,Industrial,50+ years,Economy,Supplier_26,Limited,11,Tunnels,0.07,Eco-friendly,+91 7207132227
+MAT2093,Limestone,Decorative,Other,25-50 years,Luxury,Supplier_10,In Stock,57,Other,0.32,Standard,+91 9321334334
+MAT2094,Marble,Facade,Dry,50+ years,Economy,Supplier_57,In Stock,13,Residential,0.51,Eco-friendly,+91 9189872626
+MAT2095,Paint,Insulation,Coastal,50+ years,Economy,Supplier_28,Limited,54,Residential,0.98,Standard,+91 8232645989
+MAT2096,Granite,Facade,Rural,5-10 years,Premium,Supplier_64,Out of Stock,8,Residential,0.96,Standard,+91 7136693152
+MAT2097,Copper,Insulation,Dry,5-10 years,Premium,Supplier_80,Limited,37,Bridges,0.29,Standard,+91 8234607783
+MAT2098,Ceramic Tile,Structural,Cold,50+ years,Premium,Supplier_88,Out of Stock,18,High-rise buildings,0.91,Eco-friendly,+91 7610179969
+MAT2099,Adhesive,Insulation,Urban,25-50 years,Economy,Supplier_70,Limited,37,Bridges,0.51,Eco-friendly,+91 8533177088
+MAT2100,Brick,Finishing,Cold,25-50 years,Luxury,Supplier_82,Limited,8,Roads and highways,0.83,Standard,+91 9679030191
+MAT2101,Wood,Finishing,Industrial,10-25 years,Economy,Supplier_5,Limited,10,Residential,0.88,Standard,+91 7740385731
+MAT2102,Clay,Insulation,Dry,25-50 years,Standard,Supplier_35,Out of Stock,32,Other,0.18,Standard,+91 7672697773
+MAT2103,Fiber,Facade,Rural,10-25 years,Luxury,Supplier_27,Out of Stock,39,Marine structures,0.63,Eco-friendly,+91 8524779487
+MAT2104,Glass,Facade,Moderate,25-50 years,Premium,Supplier_65,Limited,17,Marine structures,0.21,Eco-friendly,+91 7085298648
+MAT2105,Cement,Flooring,Cold,50+ years,Luxury,Supplier_24,In Stock,50,High-rise buildings,0.38,Eco-friendly,+91 7116226044
+MAT2106,Steel,Flooring,Dry,10-25 years,Luxury,Supplier_11,Limited,50,Commercial,0.89,Standard,+91 7562411160
+MAT2107,Aluminum,Structural,Humid,50+ years,Luxury,Supplier_89,Out of Stock,38,Bridges,0.47,Eco-friendly,+91 9969226517
+MAT2108,Gypsum,Flooring,Rural,50+ years,Premium,Supplier_60,Out of Stock,44,Bridges,0.42,Eco-friendly,+91 7340314826
+MAT2109,PVC,Facade,Coastal,5-10 years,Economy,Supplier_82,Out of Stock,54,Marine structures,0.96,Standard,+91 9679030191
+MAT2110,Bitumen,Facade,Urban,10-25 years,Premium,Supplier_99,Limited,12,Residential,0.83,Eco-friendly,+91 7026320860
+MAT2111,Asphalt,Finishing,Urban,50+ years,Premium,Supplier_26,In Stock,22,Bridges,0.8,Eco-friendly,+91 7207132227
+MAT2112,Sandstone,Structural,Dry,50+ years,Luxury,Supplier_7,Limited,8,Airports,0.9,Eco-friendly,+91 7548899649
+MAT2113,Concrete,Insulation,Mountain,10-25 years,Standard,Supplier_19,In Stock,23,Commercial,0.42,Standard,+91 7314006623
+MAT2114,Plaster,Flooring,Other,10-25 years,Premium,Supplier_19,In Stock,42,Commercial,0.53,Standard,+91 7314006623
+MAT2115,Vinyl,Decorative,Other,5-10 years,Economy,Supplier_12,In Stock,36,Roads and highways,0.83,Standard,+91 8882665594
+MAT2116,Laminate,Finishing,Moderate,5-10 years,Economy,Supplier_21,Limited,54,Other,0.24,Eco-friendly,+91 8310234613
+MAT2117,Bamboo,Decorative,Other,5-10 years,Premium,Supplier_42,Out of Stock,55,Bridges,0.98,Standard,+91 8406306174
+MAT2118,Recycled Plastic,Decorative,Other,50+ years,Premium,Supplier_11,Out of Stock,40,Infrastructure,0.35,Standard,+91 7562411160
+MAT2119,Polycarbonate,Structural,Other,10-25 years,Luxury,Supplier_80,Out of Stock,44,Infrastructure,0.35,Eco-friendly,+91 8234607783
+MAT2120,Acrylic,Facade,Hot,25-50 years,Economy,Supplier_41,Limited,44,Bridges,0.18,Eco-friendly,+91 7742047658
+MAT2121,Foam,Structural,Mountain,5-10 years,Economy,Supplier_77,Out of Stock,19,Airports,0.22,Standard,+91 9060217800
+MAT2122,Rubber,Facade,Other,25-50 years,Economy,Supplier_50,In Stock,29,Industrial plants,0.14,Eco-friendly,+91 9224117961
+MAT2123,Other,Structural,Dry,5-10 years,Luxury,Supplier_51,Out of Stock,40,Roads and highways,0.91,Standard,+91 8070304578
+MAT2124,Limestone,Decorative,Mountain,10-25 years,Premium,Supplier_92,Limited,38,Bridges,0.24,Standard,+91 8403005864
+MAT2125,Marble,Decorative,Rural,5-10 years,Standard,Supplier_81,Limited,34,Residential,0.56,Standard,+91 8900263885
+MAT2126,Paint,Decorative,Urban,25-50 years,Standard,Supplier_7,Out of Stock,60,Tunnels,0.29,Eco-friendly,+91 7548899649
+MAT2127,Granite,Structural,Mountain,5-10 years,Luxury,Supplier_8,In Stock,5,Infrastructure,0.07,Standard,+91 8464226483
+MAT2128,Copper,Decorative,Other,25-50 years,Premium,Supplier_31,Out of Stock,8,High-rise buildings,0.37,Standard,+91 9023009642
+MAT2129,Ceramic Tile,Insulation,Rural,50+ years,Premium,Supplier_48,Out of Stock,16,Bridges,0.75,Standard,+91 9115647592
+MAT2130,Adhesive,Decorative,Cold,50+ years,Luxury,Supplier_12,Out of Stock,60,Roads and highways,0.89,Eco-friendly,+91 8882665594
+MAT2131,Brick,Other,Dry,25-50 years,Premium,Supplier_90,Limited,22,Airports,0.7,Eco-friendly,+91 8844758293
+MAT2132,Wood,Finishing,Urban,5-10 years,Luxury,Supplier_40,Out of Stock,19,Marine structures,0.99,Standard,+91 9781709582
+MAT2133,Clay,Structural,Urban,5-10 years,Standard,Supplier_44,In Stock,7,Commercial,0.38,Eco-friendly,+91 9090351901
+MAT2134,Fiber,Finishing,Mountain,25-50 years,Luxury,Supplier_45,Out of Stock,8,High-rise buildings,0.68,Standard,+91 9747014289
+MAT2135,Glass,Flooring,Dry,5-10 years,Economy,Supplier_68,In Stock,60,Marine structures,0.49,Eco-friendly,+91 7549116721
+MAT2136,Cement,Finishing,Humid,5-10 years,Economy,Supplier_93,Limited,39,Infrastructure,0.76,Standard,+91 7108254575
+MAT2137,Steel,Insulation,Moderate,10-25 years,Premium,Supplier_87,Limited,54,Other,0.71,Standard,+91 9193943710
+MAT2138,Aluminum,Facade,Urban,10-25 years,Economy,Supplier_23,Out of Stock,36,Bridges,0.04,Eco-friendly,+91 9315879498
+MAT2139,Gypsum,Facade,Coastal,25-50 years,Premium,Supplier_91,Limited,26,Industrial plants,0,Standard,+91 9064495443
+MAT2140,PVC,Decorative,Cold,25-50 years,Economy,Supplier_72,Limited,20,Tunnels,0.75,Eco-friendly,+91 7818119199
+MAT2141,Bitumen,Structural,Moderate,25-50 years,Premium,Supplier_71,Out of Stock,20,Residential,0.11,Standard,+91 9665352711
+MAT2142,Asphalt,Insulation,Hot,25-50 years,Economy,Supplier_76,In Stock,32,Residential,0.96,Standard,+91 7852225914
+MAT2143,Sandstone,Decorative,Dry,5-10 years,Economy,Supplier_89,Out of Stock,32,Industrial plants,0.77,Eco-friendly,+91 9969226517
+MAT2144,Concrete,Insulation,Industrial,5-10 years,Luxury,Supplier_20,Out of Stock,30,Infrastructure,0.18,Standard,+91 7796737492
+MAT2145,Plaster,Structural,Hot,50+ years,Premium,Supplier_30,Limited,55,Other,0.91,Standard,+91 9297528863
+MAT2146,Vinyl,Other,Urban,50+ years,Standard,Supplier_100,In Stock,32,Roads and highways,0.64,Standard,+91 9271768077
+MAT2147,Laminate,Flooring,Humid,25-50 years,Luxury,Supplier_20,Out of Stock,58,Roads and highways,0.74,Standard,+91 7796737492
+MAT2148,Bamboo,Decorative,Industrial,10-25 years,Luxury,Supplier_59,In Stock,32,Infrastructure,0.88,Standard,+91 8073945840
+MAT2149,Recycled Plastic,Decorative,Moderate,10-25 years,Economy,Supplier_74,Out of Stock,27,Commercial,0.91,Standard,+91 7134476577
+MAT2150,Polycarbonate,Flooring,Mountain,50+ years,Economy,Supplier_58,In Stock,50,Infrastructure,0.98,Standard,+91 8538848385
+MAT2151,Acrylic,Other,Industrial,10-25 years,Luxury,Supplier_66,Limited,28,Other,0.12,Standard,+91 8512956476
+MAT2152,Foam,Other,Humid,50+ years,Premium,Supplier_94,In Stock,46,Bridges,0.18,Eco-friendly,+91 9479368062
+MAT2153,Rubber,Decorative,Cold,25-50 years,Standard,Supplier_31,In Stock,49,Infrastructure,0.29,Standard,+91 9023009642
+MAT2154,Other,Insulation,Dry,5-10 years,Premium,Supplier_82,Limited,35,Other,0.77,Standard,+91 9679030191
+MAT2155,Limestone,Facade,Other,25-50 years,Premium,Supplier_45,In Stock,34,Marine structures,0.68,Eco-friendly,+91 9747014289
+MAT2156,Marble,Decorative,Mountain,5-10 years,Economy,Supplier_99,Out of Stock,55,Marine structures,0.68,Standard,+91 7026320860
+MAT2157,Paint,Insulation,Coastal,10-25 years,Luxury,Supplier_67,Out of Stock,16,Tunnels,0.51,Eco-friendly,+91 9809772815
+MAT2158,Granite,Other,Dry,10-25 years,Premium,Supplier_97,Limited,12,Commercial,0.06,Eco-friendly,+91 7508473815
+MAT2159,Copper,Other,Industrial,25-50 years,Standard,Supplier_13,Out of Stock,4,Infrastructure,0.77,Eco-friendly,+91 8348536286
+MAT2160,Ceramic Tile,Flooring,Dry,5-10 years,Luxury,Supplier_52,In Stock,33,Other,0.32,Eco-friendly,+91 9350399941
+MAT2161,Adhesive,Decorative,Coastal,10-25 years,Economy,Supplier_15,Limited,12,Other,0.84,Eco-friendly,+91 9855764195
+MAT2162,Brick,Flooring,Dry,50+ years,Standard,Supplier_70,Limited,23,Other,0.74,Eco-friendly,+91 8533177088
+MAT2163,Wood,Flooring,Cold,25-50 years,Economy,Supplier_59,Limited,47,Airports,0.3,Eco-friendly,+91 8073945840
+MAT2164,Clay,Other,Hot,50+ years,Premium,Supplier_65,In Stock,10,Tunnels,0.14,Eco-friendly,+91 7085298648
+MAT2165,Fiber,Structural,Dry,10-25 years,Luxury,Supplier_24,In Stock,38,Other,0.19,Eco-friendly,+91 7116226044
+MAT2166,Glass,Insulation,Mountain,5-10 years,Luxury,Supplier_31,In Stock,12,Airports,0.74,Standard,+91 9023009642
+MAT2167,Cement,Flooring,Mountain,5-10 years,Economy,Supplier_61,Out of Stock,14,Bridges,1,Eco-friendly,+91 8696176323
+MAT2168,Steel,Other,Moderate,25-50 years,Luxury,Supplier_49,Out of Stock,43,Commercial,0.79,Standard,+91 7981454092
+MAT2169,Aluminum,Facade,Coastal,50+ years,Luxury,Supplier_61,Limited,3,Roads and highways,0.13,Eco-friendly,+91 8696176323
+MAT2170,Gypsum,Insulation,Dry,10-25 years,Luxury,Supplier_28,In Stock,2,Industrial plants,0.55,Standard,+91 8232645989
+MAT2171,PVC,Other,Moderate,5-10 years,Luxury,Supplier_90,In Stock,38,Commercial,0.19,Eco-friendly,+91 8844758293
+MAT2172,Bitumen,Flooring,Urban,25-50 years,Standard,Supplier_54,Out of Stock,39,Marine structures,0.29,Eco-friendly,+91 9458310307
+MAT2173,Asphalt,Finishing,Hot,25-50 years,Luxury,Supplier_100,Limited,31,Industrial plants,0.68,Eco-friendly,+91 9271768077
+MAT2174,Sandstone,Structural,Rural,5-10 years,Economy,Supplier_65,In Stock,2,Marine structures,0.68,Standard,+91 7085298648
+MAT2175,Concrete,Flooring,Humid,25-50 years,Economy,Supplier_39,Out of Stock,23,Marine structures,0.22,Eco-friendly,+91 8458974196
+MAT2176,Plaster,Facade,Humid,5-10 years,Luxury,Supplier_82,Out of Stock,44,Bridges,0.75,Eco-friendly,+91 9679030191
+MAT2177,Vinyl,Facade,Mountain,25-50 years,Standard,Supplier_40,In Stock,41,Residential,0.41,Eco-friendly,+91 9781709582
+MAT2178,Laminate,Flooring,Moderate,50+ years,Economy,Supplier_100,Out of Stock,52,Airports,0.01,Eco-friendly,+91 9271768077
+MAT2179,Bamboo,Decorative,Hot,10-25 years,Premium,Supplier_28,Limited,14,Infrastructure,0.79,Standard,+91 8232645989
+MAT2180,Recycled Plastic,Decorative,Cold,5-10 years,Luxury,Supplier_92,Out of Stock,42,Marine structures,0.3,Eco-friendly,+91 8403005864
+MAT2181,Polycarbonate,Other,Rural,25-50 years,Standard,Supplier_52,In Stock,7,Infrastructure,0.46,Eco-friendly,+91 9350399941
+MAT2182,Acrylic,Decorative,Urban,50+ years,Premium,Supplier_28,Limited,14,High-rise buildings,0.76,Standard,+91 8232645989
+MAT2183,Foam,Flooring,Cold,25-50 years,Premium,Supplier_77,Out of Stock,30,Roads and highways,0.68,Eco-friendly,+91 9060217800
+MAT2184,Rubber,Flooring,Coastal,25-50 years,Economy,Supplier_57,Out of Stock,11,Airports,0.17,Standard,+91 9189872626
+MAT2185,Other,Finishing,Other,5-10 years,Economy,Supplier_14,Limited,30,Other,0.16,Standard,+91 8073534258
+MAT2186,Limestone,Facade,Coastal,5-10 years,Luxury,Supplier_76,Limited,54,Bridges,0.98,Standard,+91 7852225914
+MAT2187,Marble,Facade,Moderate,10-25 years,Premium,Supplier_40,Out of Stock,7,Commercial,0.25,Standard,+91 9781709582
+MAT2188,Paint,Structural,Dry,50+ years,Premium,Supplier_68,In Stock,41,Bridges,0.81,Standard,+91 7549116721
+MAT2189,Granite,Decorative,Dry,50+ years,Standard,Supplier_17,Out of Stock,35,Bridges,0.14,Standard,+91 8388837996
+MAT2190,Copper,Structural,Moderate,5-10 years,Economy,Supplier_32,Limited,32,Marine structures,0.84,Eco-friendly,+91 9984893047
+MAT2191,Ceramic Tile,Facade,Mountain,10-25 years,Luxury,Supplier_55,In Stock,16,Other,0.47,Standard,+91 9963010084
+MAT2192,Adhesive,Flooring,Dry,50+ years,Economy,Supplier_7,Limited,6,Other,0.39,Standard,+91 7548899649
+MAT2193,Brick,Structural,Urban,5-10 years,Luxury,Supplier_6,Limited,3,Marine structures,0.03,Standard,+91 8728518031
+MAT2194,Wood,Decorative,Hot,5-10 years,Economy,Supplier_47,Limited,56,Marine structures,0.25,Eco-friendly,+91 7383612833
+MAT2195,Clay,Other,Hot,5-10 years,Luxury,Supplier_70,In Stock,6,Other,0.26,Eco-friendly,+91 8533177088
+MAT2196,Fiber,Finishing,Dry,25-50 years,Economy,Supplier_34,In Stock,16,Industrial plants,0.98,Eco-friendly,+91 7166009399
+MAT2197,Glass,Insulation,Mountain,25-50 years,Premium,Supplier_97,In Stock,56,Tunnels,0.43,Standard,+91 7508473815
+MAT2198,Cement,Finishing,Other,25-50 years,Premium,Supplier_19,Out of Stock,9,Commercial,0.36,Standard,+91 7314006623
+MAT2199,Steel,Structural,Cold,10-25 years,Economy,Supplier_33,Out of Stock,36,Industrial plants,0.66,Eco-friendly,+91 8687011225
+MAT2200,Aluminum,Decorative,Industrial,25-50 years,Premium,Supplier_50,Out of Stock,57,Industrial plants,0.87,Standard,+91 9224117961
+MAT2201,Gypsum,Facade,Urban,5-10 years,Luxury,Supplier_33,In Stock,23,Commercial,0.75,Standard,+91 8687011225
+MAT2202,PVC,Insulation,Mountain,50+ years,Luxury,Supplier_85,In Stock,5,Roads and highways,0.4,Standard,+91 7128338124
+MAT2203,Bitumen,Insulation,Mountain,50+ years,Standard,Supplier_61,In Stock,53,Residential,0.63,Standard,+91 8696176323
+MAT2204,Asphalt,Finishing,Humid,10-25 years,Premium,Supplier_42,Limited,48,Infrastructure,0.63,Standard,+91 8406306174
+MAT2205,Sandstone,Structural,Cold,50+ years,Premium,Supplier_45,Limited,55,Commercial,0.42,Eco-friendly,+91 9747014289
+MAT2206,Concrete,Structural,Urban,25-50 years,Premium,Supplier_56,Limited,39,Marine structures,0.86,Standard,+91 7103766984
+MAT2207,Plaster,Insulation,Urban,25-50 years,Economy,Supplier_100,Limited,37,Infrastructure,0.4,Eco-friendly,+91 9271768077
+MAT2208,Vinyl,Decorative,Moderate,25-50 years,Economy,Supplier_78,In Stock,4,Roads and highways,0.59,Eco-friendly,+91 8082914235
+MAT2209,Laminate,Decorative,Dry,10-25 years,Premium,Supplier_80,Limited,38,Roads and highways,0.95,Eco-friendly,+91 8234607783
+MAT2210,Bamboo,Flooring,Industrial,50+ years,Luxury,Supplier_43,Out of Stock,45,Residential,0.52,Standard,+91 9038438301
+MAT2211,Recycled Plastic,Insulation,Coastal,5-10 years,Economy,Supplier_55,Limited,16,Industrial plants,0.11,Eco-friendly,+91 9963010084
+MAT2212,Polycarbonate,Flooring,Humid,50+ years,Standard,Supplier_5,Out of Stock,13,Other,0.76,Standard,+91 7740385731
+MAT2213,Acrylic,Flooring,Other,25-50 years,Economy,Supplier_52,Out of Stock,60,Airports,0.11,Eco-friendly,+91 9350399941
+MAT2214,Foam,Insulation,Other,50+ years,Premium,Supplier_62,In Stock,20,Commercial,0.42,Eco-friendly,+91 9124597330
+MAT2215,Rubber,Structural,Moderate,10-25 years,Premium,Supplier_63,In Stock,40,High-rise buildings,0.13,Standard,+91 8654346090
+MAT2216,Other,Structural,Coastal,10-25 years,Luxury,Supplier_44,Out of Stock,19,Marine structures,0.11,Eco-friendly,+91 9090351901
+MAT2217,Limestone,Facade,Cold,50+ years,Standard,Supplier_18,Out of Stock,18,Tunnels,0.42,Standard,+91 8911997440
+MAT2218,Marble,Decorative,Coastal,25-50 years,Luxury,Supplier_43,Limited,38,Other,0.67,Standard,+91 9038438301
+MAT2219,Paint,Flooring,Mountain,25-50 years,Standard,Supplier_92,Limited,26,Airports,0.9,Standard,+91 8403005864
+MAT2220,Granite,Structural,Humid,5-10 years,Premium,Supplier_33,In Stock,52,Tunnels,0.02,Eco-friendly,+91 8687011225
+MAT2221,Copper,Facade,Rural,50+ years,Economy,Supplier_66,Out of Stock,57,High-rise buildings,0.38,Standard,+91 8512956476
+MAT2222,Ceramic Tile,Decorative,Hot,5-10 years,Standard,Supplier_79,In Stock,21,Residential,0.88,Standard,+91 9340848713
+MAT2223,Adhesive,Insulation,Hot,10-25 years,Premium,Supplier_60,Limited,21,Infrastructure,0.66,Standard,+91 7340314826
+MAT2224,Brick,Insulation,Cold,10-25 years,Luxury,Supplier_89,Out of Stock,36,Marine structures,0.53,Standard,+91 9969226517
+MAT2225,Wood,Flooring,Humid,25-50 years,Luxury,Supplier_46,In Stock,6,Commercial,0.55,Standard,+91 9553802633
+MAT2226,Clay,Facade,Moderate,25-50 years,Economy,Supplier_86,Limited,44,Infrastructure,0.69,Eco-friendly,+91 9450871641
+MAT2227,Fiber,Finishing,Other,25-50 years,Luxury,Supplier_44,Out of Stock,32,Commercial,0.19,Standard,+91 9090351901
+MAT2228,Glass,Facade,Industrial,10-25 years,Premium,Supplier_67,Limited,22,Bridges,0.48,Eco-friendly,+91 9809772815
+MAT2229,Cement,Flooring,Humid,50+ years,Economy,Supplier_86,Out of Stock,12,Roads and highways,0.84,Eco-friendly,+91 9450871641
+MAT2230,Steel,Insulation,Hot,5-10 years,Premium,Supplier_69,Limited,21,Roads and highways,0.75,Eco-friendly,+91 8122680822
+MAT2231,Aluminum,Flooring,Moderate,25-50 years,Economy,Supplier_75,Out of Stock,50,Residential,0.33,Standard,+91 7255077357
+MAT2232,Gypsum,Flooring,Cold,10-25 years,Standard,Supplier_15,Limited,51,Other,0.43,Standard,+91 9855764195
+MAT2233,PVC,Flooring,Cold,10-25 years,Economy,Supplier_50,In Stock,24,Other,0.88,Eco-friendly,+91 9224117961
+MAT2234,Bitumen,Facade,Moderate,5-10 years,Premium,Supplier_77,In Stock,42,Bridges,0.79,Eco-friendly,+91 9060217800
+MAT2235,Asphalt,Other,Industrial,50+ years,Premium,Supplier_62,Limited,53,Roads and highways,0.82,Eco-friendly,+91 9124597330
+MAT2236,Sandstone,Finishing,Urban,5-10 years,Standard,Supplier_36,Limited,13,Marine structures,0.49,Eco-friendly,+91 9803405485
+MAT2237,Concrete,Facade,Humid,50+ years,Premium,Supplier_82,Limited,18,Industrial plants,0.61,Eco-friendly,+91 9679030191
+MAT2238,Plaster,Flooring,Coastal,5-10 years,Premium,Supplier_20,Limited,34,Tunnels,0.26,Standard,+91 7796737492
+MAT2239,Vinyl,Flooring,Coastal,10-25 years,Standard,Supplier_48,Out of Stock,37,High-rise buildings,0.98,Eco-friendly,+91 9115647592
+MAT2240,Laminate,Other,Hot,25-50 years,Standard,Supplier_77,In Stock,46,Other,0.13,Eco-friendly,+91 9060217800
+MAT2241,Bamboo,Flooring,Coastal,25-50 years,Premium,Supplier_52,In Stock,46,High-rise buildings,0.41,Eco-friendly,+91 9350399941
+MAT2242,Recycled Plastic,Facade,Rural,25-50 years,Luxury,Supplier_56,Out of Stock,12,Industrial plants,0.92,Standard,+91 7103766984
+MAT2243,Polycarbonate,Finishing,Mountain,25-50 years,Economy,Supplier_36,Limited,20,Other,0.46,Standard,+91 9803405485
+MAT2244,Acrylic,Structural,Mountain,25-50 years,Standard,Supplier_55,Out of Stock,10,Other,0.89,Standard,+91 9963010084
+MAT2245,Foam,Structural,Hot,10-25 years,Standard,Supplier_53,Limited,30,Residential,0.39,Eco-friendly,+91 7870047913
+MAT2246,Rubber,Finishing,Urban,25-50 years,Premium,Supplier_37,Limited,46,Bridges,0.71,Eco-friendly,+91 9513313120
+MAT2247,Other,Finishing,Industrial,50+ years,Standard,Supplier_65,In Stock,30,Bridges,0.32,Eco-friendly,+91 7085298648
+MAT2248,Limestone,Other,Moderate,50+ years,Premium,Supplier_25,Limited,60,Residential,0.43,Standard,+91 8713885374
+MAT2249,Marble,Insulation,Urban,50+ years,Premium,Supplier_53,In Stock,6,Infrastructure,0.84,Standard,+91 7870047913
+MAT2250,Paint,Decorative,Cold,50+ years,Luxury,Supplier_30,Limited,16,Residential,0.19,Standard,+91 9297528863
+MAT2251,Granite,Flooring,Mountain,10-25 years,Economy,Supplier_22,In Stock,11,Airports,0.74,Standard,+91 9800188482
+MAT2252,Copper,Decorative,Mountain,25-50 years,Economy,Supplier_8,Out of Stock,55,Industrial plants,0.24,Standard,+91 8464226483
+MAT2253,Ceramic Tile,Facade,Urban,25-50 years,Economy,Supplier_81,In Stock,19,Infrastructure,0.84,Standard,+91 8900263885
+MAT2254,Adhesive,Flooring,Rural,25-50 years,Luxury,Supplier_90,Limited,19,Airports,0.34,Standard,+91 8844758293
+MAT2255,Brick,Flooring,Mountain,50+ years,Standard,Supplier_37,In Stock,22,Roads and highways,0.47,Eco-friendly,+91 9513313120
+MAT2256,Wood,Decorative,Humid,25-50 years,Luxury,Supplier_87,Limited,4,Residential,0.53,Eco-friendly,+91 9193943710
+MAT2257,Clay,Facade,Industrial,25-50 years,Luxury,Supplier_77,Out of Stock,24,Infrastructure,0.52,Eco-friendly,+91 9060217800
+MAT2258,Fiber,Insulation,Dry,25-50 years,Standard,Supplier_1,Limited,17,Other,0.9,Standard,+91 9821243845
+MAT2259,Glass,Other,Moderate,25-50 years,Premium,Supplier_15,In Stock,53,Airports,0.22,Eco-friendly,+91 9855764195
+MAT2260,Cement,Flooring,Industrial,50+ years,Economy,Supplier_64,In Stock,26,Tunnels,0.41,Eco-friendly,+91 7136693152
+MAT2261,Steel,Structural,Rural,50+ years,Standard,Supplier_4,Limited,21,Industrial plants,0.29,Standard,+91 9985896477
+MAT2262,Aluminum,Flooring,Humid,10-25 years,Standard,Supplier_44,In Stock,21,Roads and highways,0.35,Eco-friendly,+91 9090351901
+MAT2263,Gypsum,Structural,Other,25-50 years,Premium,Supplier_48,Out of Stock,20,Airports,0.89,Standard,+91 9115647592
+MAT2264,PVC,Insulation,Other,25-50 years,Standard,Supplier_56,In Stock,2,Marine structures,0.65,Standard,+91 7103766984
+MAT2265,Bitumen,Finishing,Coastal,10-25 years,Luxury,Supplier_26,In Stock,59,Roads and highways,0.11,Standard,+91 7207132227
+MAT2266,Asphalt,Flooring,Other,50+ years,Economy,Supplier_13,In Stock,59,Residential,0.46,Eco-friendly,+91 8348536286
+MAT2267,Sandstone,Finishing,Moderate,5-10 years,Premium,Supplier_57,In Stock,56,Roads and highways,0.34,Eco-friendly,+91 9189872626
+MAT2268,Concrete,Insulation,Hot,25-50 years,Premium,Supplier_9,In Stock,20,Residential,0.79,Standard,+91 8602792578
+MAT2269,Plaster,Other,Moderate,10-25 years,Standard,Supplier_39,Limited,23,Residential,0.73,Standard,+91 8458974196
+MAT2270,Vinyl,Structural,Humid,10-25 years,Standard,Supplier_14,Out of Stock,20,Industrial plants,0.59,Eco-friendly,+91 8073534258
+MAT2271,Laminate,Structural,Industrial,10-25 years,Premium,Supplier_19,In Stock,51,Commercial,0.12,Eco-friendly,+91 7314006623
+MAT2272,Bamboo,Flooring,Moderate,10-25 years,Standard,Supplier_62,Limited,28,Tunnels,0.95,Eco-friendly,+91 9124597330
+MAT2273,Recycled Plastic,Decorative,Hot,25-50 years,Standard,Supplier_63,Out of Stock,16,Infrastructure,0.69,Eco-friendly,+91 8654346090
+MAT2274,Polycarbonate,Insulation,Hot,10-25 years,Standard,Supplier_13,Out of Stock,43,Industrial plants,0.1,Eco-friendly,+91 8348536286
+MAT2275,Acrylic,Structural,Humid,25-50 years,Luxury,Supplier_78,Out of Stock,7,Marine structures,0.34,Standard,+91 8082914235
+MAT2276,Foam,Facade,Coastal,5-10 years,Luxury,Supplier_5,In Stock,11,Residential,0.42,Eco-friendly,+91 7740385731
+MAT2277,Rubber,Structural,Hot,10-25 years,Standard,Supplier_55,Out of Stock,20,Industrial plants,0.81,Standard,+91 9963010084
+MAT2278,Other,Flooring,Coastal,50+ years,Premium,Supplier_48,Out of Stock,55,Marine structures,0.38,Standard,+91 9115647592
+MAT2279,Limestone,Decorative,Urban,10-25 years,Economy,Supplier_87,Limited,21,Infrastructure,0.97,Eco-friendly,+91 9193943710
+MAT2280,Marble,Flooring,Humid,50+ years,Luxury,Supplier_30,Out of Stock,42,Roads and highways,0.86,Standard,+91 9297528863
+MAT2281,Paint,Flooring,Humid,10-25 years,Luxury,Supplier_87,In Stock,6,Marine structures,0.72,Standard,+91 9193943710
+MAT2282,Granite,Facade,Urban,50+ years,Standard,Supplier_47,In Stock,29,Commercial,0.06,Eco-friendly,+91 7383612833
+MAT2283,Copper,Facade,Hot,5-10 years,Luxury,Supplier_23,In Stock,48,Commercial,0.12,Eco-friendly,+91 9315879498
+MAT2284,Ceramic Tile,Flooring,Mountain,25-50 years,Premium,Supplier_90,Limited,31,Marine structures,0.81,Eco-friendly,+91 8844758293
+MAT2285,Adhesive,Decorative,Urban,25-50 years,Premium,Supplier_15,In Stock,50,Tunnels,0.61,Standard,+91 9855764195
+MAT2286,Brick,Decorative,Rural,10-25 years,Luxury,Supplier_54,In Stock,59,Bridges,0.44,Standard,+91 9458310307
+MAT2287,Wood,Other,Humid,50+ years,Premium,Supplier_95,In Stock,42,Commercial,0.3,Standard,+91 9970401522
+MAT2288,Clay,Other,Hot,10-25 years,Standard,Supplier_100,In Stock,7,Tunnels,0.87,Eco-friendly,+91 9271768077
+MAT2289,Fiber,Other,Moderate,25-50 years,Premium,Supplier_29,In Stock,40,Bridges,0.04,Standard,+91 8289363518
+MAT2290,Glass,Flooring,Rural,50+ years,Standard,Supplier_48,Limited,11,Airports,0.59,Eco-friendly,+91 9115647592
+MAT2291,Cement,Other,Coastal,10-25 years,Economy,Supplier_37,Limited,13,Tunnels,0.19,Eco-friendly,+91 9513313120
+MAT2292,Steel,Facade,Industrial,5-10 years,Standard,Supplier_93,Limited,38,Airports,0.35,Eco-friendly,+91 7108254575
+MAT2293,Aluminum,Finishing,Coastal,50+ years,Economy,Supplier_59,Out of Stock,34,Other,0.92,Eco-friendly,+91 8073945840
+MAT2294,Gypsum,Other,Urban,10-25 years,Standard,Supplier_37,In Stock,52,Marine structures,0.38,Standard,+91 9513313120
+MAT2295,PVC,Other,Moderate,10-25 years,Premium,Supplier_49,Out of Stock,38,Tunnels,0.07,Eco-friendly,+91 7981454092
+MAT2296,Bitumen,Flooring,Humid,25-50 years,Standard,Supplier_77,Out of Stock,34,Industrial plants,0.32,Eco-friendly,+91 9060217800
+MAT2297,Asphalt,Other,Mountain,50+ years,Premium,Supplier_34,Out of Stock,47,Bridges,0.83,Eco-friendly,+91 7166009399
+MAT2298,Sandstone,Other,Coastal,25-50 years,Premium,Supplier_7,Limited,49,Bridges,0.5,Standard,+91 7548899649
+MAT2299,Concrete,Facade,Dry,50+ years,Premium,Supplier_77,Out of Stock,46,Industrial plants,0.96,Eco-friendly,+91 9060217800
+MAT2300,Plaster,Finishing,Humid,10-25 years,Standard,Supplier_49,In Stock,11,Other,0.19,Standard,+91 7981454092
+MAT2301,Vinyl,Insulation,Dry,50+ years,Standard,Supplier_69,Limited,14,Marine structures,0.23,Eco-friendly,+91 8122680822
+MAT2302,Laminate,Flooring,Cold,25-50 years,Standard,Supplier_51,In Stock,47,Airports,0.43,Standard,+91 8070304578
+MAT2303,Bamboo,Insulation,Other,10-25 years,Luxury,Supplier_50,Limited,12,Marine structures,0.91,Standard,+91 9224117961
+MAT2304,Recycled Plastic,Structural,Urban,25-50 years,Premium,Supplier_62,Out of Stock,52,Other,0.47,Eco-friendly,+91 9124597330
+MAT2305,Polycarbonate,Structural,Mountain,10-25 years,Economy,Supplier_25,Limited,49,Roads and highways,0.97,Standard,+91 8713885374
+MAT2306,Acrylic,Other,Cold,10-25 years,Luxury,Supplier_17,Limited,26,Tunnels,0.77,Standard,+91 8388837996
+MAT2307,Foam,Insulation,Cold,25-50 years,Standard,Supplier_78,Out of Stock,44,Infrastructure,0.27,Eco-friendly,+91 8082914235
+MAT2308,Rubber,Flooring,Cold,50+ years,Standard,Supplier_94,In Stock,9,Marine structures,0.95,Standard,+91 9479368062
+MAT2309,Other,Insulation,Urban,50+ years,Luxury,Supplier_51,Out of Stock,20,Bridges,0.81,Standard,+91 8070304578
+MAT2310,Limestone,Structural,Urban,25-50 years,Luxury,Supplier_62,Out of Stock,21,Industrial plants,0.56,Eco-friendly,+91 9124597330
+MAT2311,Marble,Other,Industrial,10-25 years,Luxury,Supplier_23,Limited,58,Other,0.74,Eco-friendly,+91 9315879498
+MAT2312,Paint,Insulation,Mountain,25-50 years,Economy,Supplier_98,Limited,1,Marine structures,0.16,Standard,+91 9267705300
+MAT2313,Granite,Other,Rural,25-50 years,Luxury,Supplier_61,Out of Stock,15,Roads and highways,0.05,Eco-friendly,+91 8696176323
+MAT2314,Copper,Other,Moderate,10-25 years,Economy,Supplier_56,Out of Stock,4,Marine structures,0.63,Eco-friendly,+91 7103766984
+MAT2315,Ceramic Tile,Other,Humid,5-10 years,Standard,Supplier_26,Limited,36,Industrial plants,0.69,Eco-friendly,+91 7207132227
+MAT2316,Adhesive,Decorative,Moderate,10-25 years,Premium,Supplier_21,Out of Stock,8,Commercial,0.72,Eco-friendly,+91 8310234613
+MAT2317,Brick,Structural,Mountain,10-25 years,Standard,Supplier_44,In Stock,10,Tunnels,0.73,Standard,+91 9090351901
+MAT2318,Wood,Decorative,Humid,10-25 years,Luxury,Supplier_84,Out of Stock,42,Airports,0.23,Eco-friendly,+91 9340399355
+MAT2319,Clay,Insulation,Humid,10-25 years,Economy,Supplier_16,Limited,56,Commercial,0.16,Eco-friendly,+91 8065031990
+MAT2320,Fiber,Decorative,Dry,5-10 years,Premium,Supplier_42,In Stock,42,Commercial,0.42,Eco-friendly,+91 8406306174
+MAT2321,Glass,Insulation,Other,5-10 years,Standard,Supplier_13,Limited,59,Airports,0.32,Standard,+91 8348536286
+MAT2322,Cement,Other,Rural,50+ years,Standard,Supplier_53,In Stock,44,High-rise buildings,0.46,Eco-friendly,+91 7870047913
+MAT2323,Steel,Flooring,Humid,50+ years,Standard,Supplier_74,Out of Stock,17,High-rise buildings,0.27,Standard,+91 7134476577
+MAT2324,Aluminum,Facade,Moderate,50+ years,Luxury,Supplier_67,Limited,13,Bridges,0.26,Eco-friendly,+91 9809772815
+MAT2325,Gypsum,Finishing,Humid,25-50 years,Premium,Supplier_41,Out of Stock,10,Other,0.35,Standard,+91 7742047658
+MAT2326,PVC,Structural,Other,10-25 years,Luxury,Supplier_9,Out of Stock,42,Bridges,0.13,Standard,+91 8602792578
+MAT2327,Bitumen,Facade,Other,10-25 years,Standard,Supplier_50,Limited,21,Roads and highways,0.92,Standard,+91 9224117961
+MAT2328,Asphalt,Insulation,Mountain,25-50 years,Luxury,Supplier_57,Limited,26,High-rise buildings,0.96,Eco-friendly,+91 9189872626
+MAT2329,Sandstone,Flooring,Moderate,5-10 years,Premium,Supplier_26,Limited,20,Roads and highways,0.02,Eco-friendly,+91 7207132227
+MAT2330,Concrete,Decorative,Mountain,10-25 years,Premium,Supplier_51,Limited,9,High-rise buildings,0.73,Eco-friendly,+91 8070304578
+MAT2331,Plaster,Structural,Dry,5-10 years,Standard,Supplier_63,Limited,12,Commercial,0.63,Standard,+91 8654346090
+MAT2332,Vinyl,Decorative,Mountain,10-25 years,Economy,Supplier_17,In Stock,28,Roads and highways,0.11,Standard,+91 8388837996
+MAT2333,Laminate,Facade,Coastal,5-10 years,Premium,Supplier_93,In Stock,22,Tunnels,0.88,Standard,+91 7108254575
+MAT2334,Bamboo,Decorative,Mountain,25-50 years,Premium,Supplier_33,In Stock,38,Roads and highways,0.48,Standard,+91 8687011225
+MAT2335,Recycled Plastic,Decorative,Mountain,5-10 years,Luxury,Supplier_1,Limited,44,High-rise buildings,0.05,Standard,+91 9821243845
+MAT2336,Polycarbonate,Flooring,Urban,10-25 years,Economy,Supplier_65,Limited,5,Other,0.32,Eco-friendly,+91 7085298648
+MAT2337,Acrylic,Flooring,Humid,5-10 years,Standard,Supplier_29,Limited,27,Industrial plants,0.39,Eco-friendly,+91 8289363518
+MAT2338,Foam,Other,Industrial,50+ years,Standard,Supplier_37,In Stock,3,Tunnels,0.3,Eco-friendly,+91 9513313120
+MAT2339,Rubber,Other,Humid,5-10 years,Premium,Supplier_89,In Stock,3,Other,0.09,Eco-friendly,+91 9969226517
+MAT2340,Other,Insulation,Cold,50+ years,Economy,Supplier_65,Out of Stock,43,Tunnels,0.54,Eco-friendly,+91 7085298648
+MAT2341,Limestone,Other,Rural,50+ years,Standard,Supplier_29,Limited,34,Other,0.14,Standard,+91 8289363518
+MAT2342,Marble,Facade,Humid,10-25 years,Premium,Supplier_39,Out of Stock,44,Other,0.27,Standard,+91 8458974196
+MAT2343,Paint,Flooring,Moderate,5-10 years,Economy,Supplier_9,Out of Stock,9,Airports,0.72,Standard,+91 8602792578
+MAT2344,Granite,Structural,Industrial,50+ years,Premium,Supplier_12,Out of Stock,46,Industrial plants,0.99,Standard,+91 8882665594
+MAT2345,Copper,Insulation,Other,5-10 years,Economy,Supplier_78,Limited,26,Tunnels,0.32,Eco-friendly,+91 8082914235
+MAT2346,Ceramic Tile,Insulation,Other,25-50 years,Premium,Supplier_48,Out of Stock,21,High-rise buildings,0.35,Eco-friendly,+91 9115647592
+MAT2347,Adhesive,Decorative,Industrial,10-25 years,Economy,Supplier_28,Out of Stock,57,Infrastructure,0.15,Standard,+91 8232645989
+MAT2348,Brick,Structural,Moderate,10-25 years,Luxury,Supplier_92,In Stock,26,Marine structures,0.99,Standard,+91 8403005864
+MAT2349,Wood,Finishing,Coastal,25-50 years,Premium,Supplier_65,Limited,16,High-rise buildings,0.3,Eco-friendly,+91 7085298648
+MAT2350,Clay,Structural,Mountain,25-50 years,Luxury,Supplier_44,In Stock,53,Infrastructure,0.08,Standard,+91 9090351901
+MAT2351,Fiber,Decorative,Rural,25-50 years,Economy,Supplier_81,Out of Stock,56,Bridges,0.46,Eco-friendly,+91 8900263885
+MAT2352,Glass,Structural,Hot,10-25 years,Economy,Supplier_35,Limited,44,Airports,0.3,Standard,+91 7672697773
+MAT2353,Cement,Insulation,Other,10-25 years,Economy,Supplier_48,In Stock,5,Commercial,0.06,Eco-friendly,+91 9115647592
+MAT2354,Steel,Decorative,Cold,25-50 years,Premium,Supplier_93,Out of Stock,25,Marine structures,0.42,Standard,+91 7108254575
+MAT2355,Aluminum,Insulation,Humid,10-25 years,Standard,Supplier_72,In Stock,24,Industrial plants,0.5,Eco-friendly,+91 7818119199
+MAT2356,Gypsum,Finishing,Humid,25-50 years,Standard,Supplier_2,Out of Stock,39,Bridges,0.13,Eco-friendly,+91 9176504598
+MAT2357,PVC,Flooring,Dry,50+ years,Standard,Supplier_40,Out of Stock,53,Marine structures,0.76,Eco-friendly,+91 9781709582
+MAT2358,Bitumen,Other,Hot,10-25 years,Luxury,Supplier_62,In Stock,36,Residential,0.57,Standard,+91 9124597330
+MAT2359,Asphalt,Decorative,Dry,50+ years,Economy,Supplier_81,In Stock,60,Bridges,0.3,Eco-friendly,+91 8900263885
+MAT2360,Sandstone,Decorative,Mountain,10-25 years,Premium,Supplier_36,Limited,57,Roads and highways,0.84,Eco-friendly,+91 9803405485
+MAT2361,Concrete,Insulation,Mountain,10-25 years,Premium,Supplier_30,In Stock,1,Bridges,0.19,Eco-friendly,+91 9297528863
+MAT2362,Plaster,Other,Moderate,25-50 years,Luxury,Supplier_46,Limited,11,Roads and highways,0.4,Standard,+91 9553802633
+MAT2363,Vinyl,Facade,Hot,10-25 years,Premium,Supplier_63,Limited,1,Bridges,0.99,Eco-friendly,+91 8654346090
+MAT2364,Laminate,Facade,Cold,10-25 years,Standard,Supplier_34,In Stock,15,High-rise buildings,0.19,Eco-friendly,+91 7166009399
+MAT2365,Bamboo,Other,Urban,10-25 years,Premium,Supplier_71,Limited,49,Airports,0.11,Eco-friendly,+91 9665352711
+MAT2366,Recycled Plastic,Finishing,Urban,10-25 years,Luxury,Supplier_1,Out of Stock,32,Residential,0.18,Standard,+91 9821243845
+MAT2367,Polycarbonate,Facade,Moderate,5-10 years,Economy,Supplier_63,In Stock,1,Industrial plants,0.98,Eco-friendly,+91 8654346090
+MAT2368,Acrylic,Decorative,Cold,5-10 years,Luxury,Supplier_84,In Stock,52,Other,0.2,Standard,+91 9340399355
+MAT2369,Foam,Facade,Moderate,5-10 years,Premium,Supplier_10,Out of Stock,7,Industrial plants,0.72,Standard,+91 9321334334
+MAT2370,Rubber,Other,Industrial,25-50 years,Standard,Supplier_44,Limited,28,Airports,0.87,Standard,+91 9090351901
+MAT2371,Other,Finishing,Hot,10-25 years,Premium,Supplier_34,In Stock,19,Marine structures,0.59,Standard,+91 7166009399
+MAT2372,Limestone,Decorative,Cold,25-50 years,Economy,Supplier_14,In Stock,40,Roads and highways,0.04,Eco-friendly,+91 8073534258
+MAT2373,Marble,Decorative,Hot,25-50 years,Premium,Supplier_100,Limited,17,Infrastructure,0.55,Standard,+91 9271768077
+MAT2374,Paint,Other,Hot,25-50 years,Standard,Supplier_75,In Stock,49,Bridges,0.68,Standard,+91 7255077357
+MAT2375,Granite,Flooring,Humid,25-50 years,Luxury,Supplier_6,Out of Stock,53,Commercial,0.75,Eco-friendly,+91 8728518031
+MAT2376,Copper,Flooring,Urban,5-10 years,Standard,Supplier_46,In Stock,59,Marine structures,0.58,Standard,+91 9553802633
+MAT2377,Ceramic Tile,Structural,Coastal,5-10 years,Standard,Supplier_46,In Stock,11,Airports,0.77,Standard,+91 9553802633
+MAT2378,Adhesive,Flooring,Dry,25-50 years,Luxury,Supplier_94,Limited,32,Commercial,0.05,Eco-friendly,+91 9479368062
+MAT2379,Brick,Decorative,Mountain,5-10 years,Economy,Supplier_75,Out of Stock,54,Infrastructure,0.77,Eco-friendly,+91 7255077357
+MAT2380,Wood,Finishing,Urban,5-10 years,Premium,Supplier_58,Out of Stock,51,Roads and highways,0.69,Eco-friendly,+91 8538848385
+MAT2381,Clay,Facade,Rural,10-25 years,Luxury,Supplier_14,In Stock,5,Other,0.96,Standard,+91 8073534258
+MAT2382,Fiber,Facade,Cold,5-10 years,Economy,Supplier_53,Limited,23,Commercial,0.52,Standard,+91 7870047913
+MAT2383,Glass,Other,Mountain,10-25 years,Standard,Supplier_99,In Stock,58,Residential,0.39,Standard,+91 7026320860
+MAT2384,Cement,Finishing,Coastal,5-10 years,Standard,Supplier_80,Out of Stock,34,Tunnels,0.22,Standard,+91 8234607783
+MAT2385,Steel,Insulation,Mountain,5-10 years,Standard,Supplier_39,Limited,26,Industrial plants,0.75,Standard,+91 8458974196
+MAT2386,Aluminum,Decorative,Industrial,5-10 years,Standard,Supplier_35,In Stock,44,Commercial,0.14,Eco-friendly,+91 7672697773
+MAT2387,Gypsum,Other,Mountain,10-25 years,Premium,Supplier_26,Limited,7,Other,0.05,Standard,+91 7207132227
+MAT2388,PVC,Decorative,Cold,50+ years,Economy,Supplier_26,Out of Stock,17,High-rise buildings,0.18,Standard,+91 7207132227
+MAT2389,Bitumen,Finishing,Other,10-25 years,Premium,Supplier_57,Limited,54,Industrial plants,0.95,Eco-friendly,+91 9189872626
+MAT2390,Asphalt,Decorative,Rural,10-25 years,Premium,Supplier_16,Out of Stock,14,Tunnels,0.95,Standard,+91 8065031990
+MAT2391,Sandstone,Decorative,Mountain,5-10 years,Economy,Supplier_75,In Stock,45,Bridges,0.8,Standard,+91 7255077357
+MAT2392,Concrete,Finishing,Coastal,5-10 years,Economy,Supplier_28,Limited,31,Commercial,0.21,Standard,+91 8232645989
+MAT2393,Plaster,Insulation,Mountain,10-25 years,Premium,Supplier_46,Out of Stock,16,Commercial,0.18,Eco-friendly,+91 9553802633
+MAT2394,Vinyl,Facade,Coastal,10-25 years,Luxury,Supplier_87,In Stock,34,Industrial plants,0.45,Standard,+91 9193943710
+MAT2395,Laminate,Flooring,Humid,50+ years,Premium,Supplier_58,In Stock,32,Residential,0.77,Standard,+91 8538848385
+MAT2396,Bamboo,Other,Cold,50+ years,Standard,Supplier_78,In Stock,43,Industrial plants,0.47,Standard,+91 8082914235
+MAT2397,Recycled Plastic,Flooring,Dry,10-25 years,Standard,Supplier_12,Limited,11,Commercial,0.78,Standard,+91 8882665594
+MAT2398,Polycarbonate,Structural,Dry,5-10 years,Economy,Supplier_69,Out of Stock,12,Marine structures,0.01,Eco-friendly,+91 8122680822
+MAT2399,Acrylic,Structural,Dry,5-10 years,Economy,Supplier_93,Limited,30,Other,0.86,Standard,+91 7108254575
+MAT2400,Foam,Other,Urban,5-10 years,Luxury,Supplier_52,In Stock,50,Roads and highways,0.27,Standard,+91 9350399941
+MAT2401,Rubber,Decorative,Moderate,5-10 years,Luxury,Supplier_53,Out of Stock,3,Marine structures,0.71,Eco-friendly,+91 7870047913
+MAT2402,Other,Other,Industrial,50+ years,Luxury,Supplier_17,In Stock,43,Other,0.7,Eco-friendly,+91 8388837996
+MAT2403,Limestone,Other,Other,10-25 years,Standard,Supplier_38,Out of Stock,4,Infrastructure,0.29,Eco-friendly,+91 8178252144
+MAT2404,Marble,Finishing,Moderate,50+ years,Economy,Supplier_32,In Stock,60,Industrial plants,0.74,Eco-friendly,+91 9984893047
+MAT2405,Paint,Other,Moderate,5-10 years,Standard,Supplier_89,Limited,59,Infrastructure,0.78,Eco-friendly,+91 9969226517
+MAT2406,Granite,Other,Hot,5-10 years,Luxury,Supplier_25,Out of Stock,17,Tunnels,0.33,Eco-friendly,+91 8713885374
+MAT2407,Copper,Flooring,Moderate,25-50 years,Economy,Supplier_5,Out of Stock,3,Other,0.23,Eco-friendly,+91 7740385731
+MAT2408,Ceramic Tile,Other,Dry,5-10 years,Economy,Supplier_83,Limited,3,Residential,0.51,Standard,+91 8349419107
+MAT2409,Adhesive,Insulation,Urban,5-10 years,Standard,Supplier_92,Limited,25,Marine structures,0.18,Eco-friendly,+91 8403005864
+MAT2410,Brick,Insulation,Moderate,5-10 years,Premium,Supplier_68,Limited,41,Residential,0.36,Standard,+91 7549116721
+MAT2411,Wood,Flooring,Dry,5-10 years,Premium,Supplier_37,Limited,39,Marine structures,0.43,Eco-friendly,+91 9513313120
+MAT2412,Clay,Finishing,Urban,50+ years,Premium,Supplier_7,In Stock,33,Bridges,0.12,Eco-friendly,+91 7548899649
+MAT2413,Fiber,Decorative,Cold,25-50 years,Luxury,Supplier_76,Limited,60,Tunnels,0.36,Eco-friendly,+91 7852225914
+MAT2414,Glass,Facade,Industrial,10-25 years,Premium,Supplier_12,Out of Stock,29,Residential,0.78,Standard,+91 8882665594
+MAT2415,Cement,Insulation,Mountain,5-10 years,Economy,Supplier_50,In Stock,54,Residential,0.69,Standard,+91 9224117961
+MAT2416,Steel,Other,Mountain,10-25 years,Premium,Supplier_3,Out of Stock,33,Other,0.37,Eco-friendly,+91 9511694911
+MAT2417,Aluminum,Other,Humid,10-25 years,Standard,Supplier_14,Limited,13,Commercial,0.73,Eco-friendly,+91 8073534258
+MAT2418,Gypsum,Finishing,Urban,50+ years,Luxury,Supplier_15,Limited,39,High-rise buildings,0.09,Eco-friendly,+91 9855764195
+MAT2419,PVC,Finishing,Industrial,50+ years,Premium,Supplier_98,Out of Stock,13,High-rise buildings,0.84,Standard,+91 9267705300
+MAT2420,Bitumen,Other,Humid,50+ years,Premium,Supplier_40,In Stock,47,Bridges,0.66,Standard,+91 9781709582
+MAT2421,Asphalt,Facade,Urban,10-25 years,Economy,Supplier_12,In Stock,26,Bridges,0.07,Standard,+91 8882665594
+MAT2422,Sandstone,Insulation,Dry,25-50 years,Premium,Supplier_70,Limited,3,Infrastructure,0.16,Eco-friendly,+91 8533177088
+MAT2423,Concrete,Finishing,Urban,25-50 years,Premium,Supplier_1,In Stock,4,Infrastructure,0.61,Standard,+91 9821243845
+MAT2424,Plaster,Decorative,Cold,10-25 years,Premium,Supplier_33,Out of Stock,28,Infrastructure,0.94,Eco-friendly,+91 8687011225
+MAT2425,Vinyl,Other,Rural,5-10 years,Premium,Supplier_26,Out of Stock,38,Marine structures,0.6,Standard,+91 7207132227
+MAT2426,Laminate,Facade,Moderate,25-50 years,Premium,Supplier_54,Out of Stock,43,Commercial,0.25,Standard,+91 9458310307
+MAT2427,Bamboo,Finishing,Mountain,5-10 years,Premium,Supplier_93,Limited,19,Airports,0.16,Eco-friendly,+91 7108254575
+MAT2428,Recycled Plastic,Flooring,Coastal,5-10 years,Premium,Supplier_69,In Stock,17,High-rise buildings,0.07,Standard,+91 8122680822
+MAT2429,Polycarbonate,Decorative,Industrial,5-10 years,Standard,Supplier_26,In Stock,45,Tunnels,0.87,Standard,+91 7207132227
+MAT2430,Acrylic,Flooring,Hot,5-10 years,Economy,Supplier_63,Limited,36,Marine structures,0.37,Standard,+91 8654346090
+MAT2431,Foam,Facade,Moderate,50+ years,Economy,Supplier_53,Limited,9,High-rise buildings,0.62,Eco-friendly,+91 7870047913
+MAT2432,Rubber,Insulation,Hot,10-25 years,Economy,Supplier_53,Limited,52,Roads and highways,0.42,Standard,+91 7870047913
+MAT2433,Other,Finishing,Mountain,50+ years,Luxury,Supplier_24,Limited,27,Commercial,0.67,Eco-friendly,+91 7116226044
+MAT2434,Limestone,Other,Mountain,50+ years,Economy,Supplier_69,Out of Stock,4,Airports,0.72,Eco-friendly,+91 8122680822
+MAT2435,Marble,Insulation,Moderate,5-10 years,Standard,Supplier_36,Limited,28,Roads and highways,0.25,Standard,+91 9803405485
+MAT2436,Paint,Structural,Rural,10-25 years,Luxury,Supplier_74,In Stock,3,Infrastructure,0.66,Standard,+91 7134476577
+MAT2437,Granite,Other,Mountain,10-25 years,Standard,Supplier_23,Limited,44,Roads and highways,0.28,Eco-friendly,+91 9315879498
+MAT2438,Copper,Facade,Urban,5-10 years,Standard,Supplier_52,Out of Stock,21,High-rise buildings,0.13,Standard,+91 9350399941
+MAT2439,Ceramic Tile,Decorative,Rural,5-10 years,Premium,Supplier_90,Limited,17,Industrial plants,0.48,Standard,+91 8844758293
+MAT2440,Adhesive,Structural,Humid,25-50 years,Economy,Supplier_98,In Stock,21,Other,0.16,Standard,+91 9267705300
+MAT2441,Brick,Structural,Mountain,5-10 years,Standard,Supplier_84,In Stock,21,Commercial,0.74,Standard,+91 9340399355
+MAT2442,Wood,Facade,Dry,5-10 years,Luxury,Supplier_16,Limited,51,Residential,0.76,Standard,+91 8065031990
+MAT2443,Clay,Flooring,Urban,10-25 years,Premium,Supplier_54,Limited,55,Residential,0.77,Standard,+91 9458310307
+MAT2444,Fiber,Facade,Other,10-25 years,Economy,Supplier_46,Out of Stock,28,Other,0.56,Eco-friendly,+91 9553802633
+MAT2445,Glass,Facade,Coastal,50+ years,Premium,Supplier_56,In Stock,38,Industrial plants,0.86,Eco-friendly,+91 7103766984
+MAT2446,Cement,Other,Rural,5-10 years,Premium,Supplier_28,Out of Stock,60,Other,0.75,Eco-friendly,+91 8232645989
+MAT2447,Steel,Structural,Moderate,10-25 years,Economy,Supplier_5,In Stock,5,Other,0.39,Eco-friendly,+91 7740385731
+MAT2448,Aluminum,Facade,Urban,5-10 years,Standard,Supplier_31,Out of Stock,5,Infrastructure,0.83,Standard,+91 9023009642
+MAT2449,Gypsum,Facade,Rural,5-10 years,Luxury,Supplier_89,In Stock,9,Commercial,0.43,Eco-friendly,+91 9969226517
+MAT2450,PVC,Structural,Rural,25-50 years,Luxury,Supplier_63,Limited,32,Roads and highways,0.59,Standard,+91 8654346090
+MAT2451,Bitumen,Flooring,Industrial,5-10 years,Economy,Supplier_5,Limited,56,Residential,0,Standard,+91 7740385731
+MAT2452,Asphalt,Insulation,Urban,10-25 years,Luxury,Supplier_63,In Stock,54,Other,0.32,Eco-friendly,+91 8654346090
+MAT2453,Sandstone,Flooring,Humid,5-10 years,Standard,Supplier_26,Out of Stock,59,High-rise buildings,0.46,Eco-friendly,+91 7207132227
+MAT2454,Concrete,Structural,Other,50+ years,Premium,Supplier_18,Limited,25,Bridges,0.82,Eco-friendly,+91 8911997440
+MAT2455,Plaster,Facade,Industrial,50+ years,Luxury,Supplier_5,In Stock,51,Tunnels,0.36,Eco-friendly,+91 7740385731
+MAT2456,Vinyl,Flooring,Rural,5-10 years,Economy,Supplier_94,Limited,8,Industrial plants,0.43,Eco-friendly,+91 9479368062
+MAT2457,Laminate,Facade,Cold,25-50 years,Standard,Supplier_51,Out of Stock,21,Roads and highways,0.45,Standard,+91 8070304578
+MAT2458,Bamboo,Other,Mountain,25-50 years,Standard,Supplier_44,Out of Stock,59,Tunnels,0.13,Standard,+91 9090351901
+MAT2459,Recycled Plastic,Other,Dry,25-50 years,Standard,Supplier_54,Limited,27,High-rise buildings,0.95,Standard,+91 9458310307
+MAT2460,Polycarbonate,Facade,Moderate,10-25 years,Standard,Supplier_40,Out of Stock,10,Industrial plants,0.83,Eco-friendly,+91 9781709582
+MAT2461,Acrylic,Finishing,Industrial,50+ years,Premium,Supplier_15,Limited,45,Roads and highways,0.73,Standard,+91 9855764195
+MAT2462,Foam,Structural,Coastal,50+ years,Economy,Supplier_29,In Stock,28,Commercial,0.8,Standard,+91 8289363518
+MAT2463,Rubber,Facade,Moderate,5-10 years,Economy,Supplier_71,Out of Stock,25,Tunnels,0.64,Standard,+91 9665352711
+MAT2464,Other,Structural,Other,10-25 years,Economy,Supplier_87,In Stock,32,Roads and highways,0.45,Eco-friendly,+91 9193943710
+MAT2465,Limestone,Structural,Moderate,25-50 years,Economy,Supplier_23,In Stock,32,Residential,0.74,Eco-friendly,+91 9315879498
+MAT2466,Marble,Facade,Coastal,10-25 years,Luxury,Supplier_70,Out of Stock,14,Airports,0.59,Standard,+91 8533177088
+MAT2467,Paint,Structural,Coastal,10-25 years,Luxury,Supplier_9,Out of Stock,4,Residential,0.53,Standard,+91 8602792578
+MAT2468,Granite,Facade,Hot,5-10 years,Economy,Supplier_29,Out of Stock,20,Industrial plants,0.46,Standard,+91 8289363518
+MAT2469,Copper,Structural,Cold,10-25 years,Premium,Supplier_87,Out of Stock,15,Airports,0.75,Standard,+91 9193943710
+MAT2470,Ceramic Tile,Finishing,Mountain,25-50 years,Premium,Supplier_45,Limited,25,Tunnels,0.66,Eco-friendly,+91 9747014289
+MAT2471,Adhesive,Decorative,Humid,25-50 years,Economy,Supplier_20,Limited,58,Marine structures,0.03,Standard,+91 7796737492
+MAT2472,Brick,Decorative,Cold,50+ years,Economy,Supplier_29,Limited,17,High-rise buildings,0.07,Eco-friendly,+91 8289363518
+MAT2473,Wood,Finishing,Cold,25-50 years,Premium,Supplier_81,Out of Stock,3,Commercial,0.54,Standard,+91 8900263885
+MAT2474,Clay,Decorative,Humid,10-25 years,Standard,Supplier_55,In Stock,25,Infrastructure,0.18,Standard,+91 9963010084
+MAT2475,Fiber,Finishing,Rural,50+ years,Standard,Supplier_51,Limited,29,Roads and highways,0.26,Eco-friendly,+91 8070304578
+MAT2476,Glass,Structural,Coastal,50+ years,Economy,Supplier_32,Limited,6,Bridges,0.11,Eco-friendly,+91 9984893047
+MAT2477,Cement,Facade,Rural,10-25 years,Standard,Supplier_72,In Stock,43,Tunnels,0.74,Eco-friendly,+91 7818119199
+MAT2478,Steel,Facade,Urban,10-25 years,Standard,Supplier_75,In Stock,8,Bridges,0.56,Standard,+91 7255077357
+MAT2479,Aluminum,Structural,Other,25-50 years,Luxury,Supplier_76,Out of Stock,9,Industrial plants,0.85,Eco-friendly,+91 7852225914
+MAT2480,Gypsum,Facade,Humid,25-50 years,Standard,Supplier_12,In Stock,8,High-rise buildings,0.19,Standard,+91 8882665594
+MAT2481,PVC,Insulation,Coastal,25-50 years,Standard,Supplier_83,Limited,20,Residential,0.35,Standard,+91 8349419107
+MAT2482,Bitumen,Flooring,Hot,25-50 years,Luxury,Supplier_22,In Stock,23,Other,0.47,Eco-friendly,+91 9800188482
+MAT2483,Asphalt,Other,Cold,50+ years,Standard,Supplier_30,Out of Stock,36,Tunnels,0.73,Eco-friendly,+91 9297528863
+MAT2484,Sandstone,Other,Mountain,5-10 years,Economy,Supplier_3,In Stock,36,Infrastructure,0.16,Standard,+91 9511694911
+MAT2485,Concrete,Facade,Dry,10-25 years,Premium,Supplier_82,Out of Stock,56,Industrial plants,0.43,Eco-friendly,+91 9679030191
+MAT2486,Plaster,Insulation,Dry,5-10 years,Standard,Supplier_95,Limited,3,Roads and highways,0.81,Standard,+91 9970401522
+MAT2487,Vinyl,Insulation,Dry,10-25 years,Economy,Supplier_63,In Stock,28,Commercial,0.9,Eco-friendly,+91 8654346090
+MAT2488,Laminate,Decorative,Mountain,50+ years,Luxury,Supplier_80,Limited,29,Airports,0.45,Standard,+91 8234607783
+MAT2489,Bamboo,Structural,Humid,25-50 years,Standard,Supplier_89,Limited,20,Bridges,0.59,Eco-friendly,+91 9969226517
+MAT2490,Recycled Plastic,Insulation,Rural,50+ years,Luxury,Supplier_24,In Stock,11,Roads and highways,0.34,Eco-friendly,+91 7116226044
+MAT2491,Polycarbonate,Decorative,Industrial,25-50 years,Standard,Supplier_67,Limited,13,Airports,0.01,Standard,+91 9809772815
+MAT2492,Acrylic,Structural,Mountain,25-50 years,Standard,Supplier_80,Out of Stock,59,Bridges,0.28,Eco-friendly,+91 8234607783
+MAT2493,Foam,Facade,Industrial,5-10 years,Standard,Supplier_36,Out of Stock,40,Other,0.47,Standard,+91 9803405485
+MAT2494,Rubber,Other,Other,25-50 years,Luxury,Supplier_3,Limited,1,Commercial,0.82,Standard,+91 9511694911
+MAT2495,Other,Structural,Dry,25-50 years,Economy,Supplier_33,Out of Stock,49,Airports,0.18,Eco-friendly,+91 8687011225
+MAT2496,Limestone,Insulation,Moderate,50+ years,Standard,Supplier_88,Out of Stock,33,Marine structures,0.24,Eco-friendly,+91 7610179969
+MAT2497,Marble,Insulation,Mountain,25-50 years,Economy,Supplier_44,Out of Stock,30,Bridges,0.31,Eco-friendly,+91 9090351901
+MAT2498,Paint,Insulation,Dry,5-10 years,Luxury,Supplier_42,In Stock,49,Other,0.46,Eco-friendly,+91 8406306174
+MAT2499,Granite,Structural,Industrial,25-50 years,Economy,Supplier_37,In Stock,52,Tunnels,0.83,Eco-friendly,+91 9513313120
+MAT2500,Copper,Insulation,Other,25-50 years,Premium,Supplier_35,In Stock,39,High-rise buildings,0.52,Standard,+91 7672697773
+MAT2501,Ceramic Tile,Structural,Cold,25-50 years,Premium,Supplier_70,Limited,23,Commercial,0.98,Eco-friendly,+91 8533177088
+MAT2502,Adhesive,Other,Other,5-10 years,Standard,Supplier_71,Out of Stock,56,Marine structures,0.72,Eco-friendly,+91 9665352711
+MAT2503,Brick,Facade,Dry,10-25 years,Standard,Supplier_84,Limited,46,Industrial plants,0.3,Eco-friendly,+91 9340399355
+MAT2504,Wood,Finishing,Other,25-50 years,Luxury,Supplier_38,Limited,18,Other,0.53,Eco-friendly,+91 8178252144
+MAT2505,Clay,Structural,Humid,10-25 years,Economy,Supplier_54,Out of Stock,13,Airports,0,Eco-friendly,+91 9458310307
+MAT2506,Fiber,Flooring,Other,5-10 years,Standard,Supplier_63,Out of Stock,56,Marine structures,0.72,Standard,+91 8654346090
+MAT2507,Glass,Flooring,Rural,5-10 years,Economy,Supplier_66,Limited,56,Commercial,0.97,Standard,+91 8512956476
+MAT2508,Cement,Finishing,Humid,50+ years,Premium,Supplier_70,In Stock,33,Airports,0.83,Eco-friendly,+91 8533177088
+MAT2509,Steel,Facade,Mountain,10-25 years,Economy,Supplier_89,Out of Stock,31,Commercial,0.78,Standard,+91 9969226517
+MAT2510,Aluminum,Structural,Industrial,5-10 years,Luxury,Supplier_97,Limited,47,Other,0.58,Eco-friendly,+91 7508473815
+MAT2511,Gypsum,Facade,Dry,50+ years,Luxury,Supplier_62,Out of Stock,37,Airports,0.3,Standard,+91 9124597330
+MAT2512,PVC,Flooring,Mountain,50+ years,Economy,Supplier_43,Out of Stock,58,Industrial plants,0.94,Eco-friendly,+91 9038438301
+MAT2513,Bitumen,Insulation,Moderate,25-50 years,Standard,Supplier_22,In Stock,33,Commercial,0.27,Eco-friendly,+91 9800188482
+MAT2514,Asphalt,Other,Hot,10-25 years,Economy,Supplier_75,Limited,47,Roads and highways,0.46,Eco-friendly,+91 7255077357
+MAT2515,Sandstone,Flooring,Humid,25-50 years,Luxury,Supplier_5,In Stock,41,Bridges,0.01,Eco-friendly,+91 7740385731
+MAT2516,Concrete,Facade,Mountain,10-25 years,Premium,Supplier_73,Limited,43,Infrastructure,0.3,Eco-friendly,+91 7195736923
+MAT2517,Plaster,Structural,Rural,5-10 years,Standard,Supplier_89,Out of Stock,42,Marine structures,0.63,Eco-friendly,+91 9969226517
+MAT2518,Vinyl,Other,Mountain,50+ years,Economy,Supplier_37,In Stock,12,Marine structures,0.48,Standard,+91 9513313120
+MAT2519,Laminate,Finishing,Humid,50+ years,Economy,Supplier_76,Out of Stock,49,Bridges,0.49,Standard,+91 7852225914
+MAT2520,Bamboo,Decorative,Other,50+ years,Standard,Supplier_89,In Stock,57,Infrastructure,0.68,Eco-friendly,+91 9969226517
+MAT2521,Recycled Plastic,Structural,Cold,25-50 years,Economy,Supplier_91,Limited,27,Roads and highways,0.31,Eco-friendly,+91 9064495443
+MAT2522,Polycarbonate,Insulation,Mountain,25-50 years,Economy,Supplier_29,Limited,40,Residential,0.5,Standard,+91 8289363518
+MAT2523,Acrylic,Facade,Rural,50+ years,Luxury,Supplier_13,Limited,18,Infrastructure,0.85,Standard,+91 8348536286
+MAT2524,Foam,Other,Dry,50+ years,Luxury,Supplier_59,Out of Stock,46,Infrastructure,0.77,Standard,+91 8073945840
+MAT2525,Rubber,Structural,Other,25-50 years,Luxury,Supplier_60,In Stock,3,High-rise buildings,0.6,Eco-friendly,+91 7340314826
+MAT2526,Other,Other,Other,10-25 years,Standard,Supplier_87,Limited,58,Industrial plants,0.38,Standard,+91 9193943710
+MAT2527,Limestone,Flooring,Rural,10-25 years,Luxury,Supplier_80,Out of Stock,47,Industrial plants,0.86,Standard,+91 8234607783
+MAT2528,Marble,Facade,Rural,10-25 years,Economy,Supplier_81,Out of Stock,39,Other,0.96,Standard,+91 8900263885
+MAT2529,Paint,Decorative,Cold,5-10 years,Premium,Supplier_12,Out of Stock,57,Marine structures,0.87,Eco-friendly,+91 8882665594
+MAT2530,Granite,Flooring,Coastal,5-10 years,Premium,Supplier_10,Out of Stock,56,Bridges,0.36,Eco-friendly,+91 9321334334
+MAT2531,Copper,Decorative,Humid,10-25 years,Luxury,Supplier_59,Limited,24,Marine structures,0.79,Standard,+91 8073945840
+MAT2532,Ceramic Tile,Insulation,Coastal,10-25 years,Standard,Supplier_89,In Stock,15,Other,0.45,Standard,+91 9969226517
+MAT2533,Adhesive,Flooring,Mountain,5-10 years,Standard,Supplier_18,In Stock,9,Roads and highways,0.27,Eco-friendly,+91 8911997440
+MAT2534,Brick,Flooring,Mountain,10-25 years,Luxury,Supplier_35,Out of Stock,19,High-rise buildings,0.71,Standard,+91 7672697773
+MAT2535,Wood,Finishing,Mountain,10-25 years,Standard,Supplier_58,Limited,11,Bridges,0.49,Standard,+91 8538848385
+MAT2536,Clay,Flooring,Humid,5-10 years,Economy,Supplier_70,In Stock,58,Infrastructure,0.96,Eco-friendly,+91 8533177088
+MAT2537,Fiber,Facade,Rural,10-25 years,Standard,Supplier_62,In Stock,50,Commercial,0.54,Standard,+91 9124597330
+MAT2538,Glass,Flooring,Other,25-50 years,Luxury,Supplier_93,In Stock,34,Marine structures,0.89,Eco-friendly,+91 7108254575
+MAT2539,Cement,Other,Other,50+ years,Standard,Supplier_94,Limited,47,Infrastructure,0.44,Standard,+91 9479368062
+MAT2540,Steel,Facade,Moderate,5-10 years,Luxury,Supplier_38,Limited,48,Marine structures,0.33,Standard,+91 8178252144
+MAT2541,Aluminum,Flooring,Coastal,5-10 years,Luxury,Supplier_7,Out of Stock,44,Marine structures,0.67,Eco-friendly,+91 7548899649
+MAT2542,Gypsum,Facade,Other,5-10 years,Standard,Supplier_38,In Stock,49,Infrastructure,0.85,Eco-friendly,+91 8178252144
+MAT2543,PVC,Finishing,Urban,25-50 years,Premium,Supplier_78,Limited,25,Other,0.95,Standard,+91 8082914235
+MAT2544,Bitumen,Decorative,Dry,25-50 years,Standard,Supplier_87,Out of Stock,9,Infrastructure,0.36,Standard,+91 9193943710
+MAT2545,Asphalt,Finishing,Rural,5-10 years,Luxury,Supplier_44,In Stock,54,Commercial,0.13,Eco-friendly,+91 9090351901
+MAT2546,Sandstone,Insulation,Other,25-50 years,Standard,Supplier_31,Limited,21,Bridges,0.96,Eco-friendly,+91 9023009642
+MAT2547,Concrete,Insulation,Hot,25-50 years,Premium,Supplier_55,Out of Stock,20,Commercial,0.62,Standard,+91 9963010084
+MAT2548,Plaster,Other,Dry,10-25 years,Economy,Supplier_12,Out of Stock,17,Other,0.26,Standard,+91 8882665594
+MAT2549,Vinyl,Facade,Coastal,25-50 years,Luxury,Supplier_69,Limited,36,Marine structures,0.74,Eco-friendly,+91 8122680822
+MAT2550,Laminate,Insulation,Hot,5-10 years,Premium,Supplier_27,Out of Stock,23,High-rise buildings,0.02,Standard,+91 8524779487
+MAT2551,Bamboo,Decorative,Dry,25-50 years,Standard,Supplier_5,Limited,29,Industrial plants,0.54,Standard,+91 7740385731
+MAT2552,Recycled Plastic,Decorative,Humid,5-10 years,Luxury,Supplier_1,In Stock,7,Industrial plants,0.23,Standard,+91 9821243845
+MAT2553,Polycarbonate,Insulation,Dry,5-10 years,Economy,Supplier_55,Limited,22,Airports,0.72,Standard,+91 9963010084
+MAT2554,Acrylic,Structural,Mountain,50+ years,Luxury,Supplier_52,Out of Stock,22,Airports,0.49,Eco-friendly,+91 9350399941
+MAT2555,Foam,Insulation,Hot,50+ years,Premium,Supplier_69,Limited,3,Airports,0.23,Standard,+91 8122680822
+MAT2556,Rubber,Insulation,Humid,5-10 years,Economy,Supplier_12,Limited,49,High-rise buildings,0.73,Standard,+91 8882665594
+MAT2557,Other,Insulation,Moderate,5-10 years,Premium,Supplier_77,Out of Stock,5,Roads and highways,0.34,Standard,+91 9060217800
+MAT2558,Limestone,Other,Moderate,25-50 years,Luxury,Supplier_81,Out of Stock,6,Bridges,0.66,Eco-friendly,+91 8900263885
+MAT2559,Marble,Flooring,Cold,25-50 years,Luxury,Supplier_8,Limited,22,Airports,0.68,Standard,+91 8464226483
+MAT2560,Paint,Decorative,Mountain,25-50 years,Economy,Supplier_80,Limited,19,Industrial plants,0.7,Standard,+91 8234607783
+MAT2561,Granite,Decorative,Urban,5-10 years,Economy,Supplier_29,Limited,21,Tunnels,0.92,Eco-friendly,+91 8289363518
+MAT2562,Copper,Decorative,Coastal,25-50 years,Luxury,Supplier_88,Limited,6,Roads and highways,0.04,Eco-friendly,+91 7610179969
+MAT2563,Ceramic Tile,Facade,Dry,10-25 years,Standard,Supplier_10,Limited,9,High-rise buildings,0.58,Standard,+91 9321334334
+MAT2564,Adhesive,Flooring,Mountain,10-25 years,Economy,Supplier_61,Out of Stock,41,Bridges,0.26,Eco-friendly,+91 8696176323
+MAT2565,Brick,Finishing,Coastal,10-25 years,Economy,Supplier_14,Out of Stock,21,High-rise buildings,0.59,Eco-friendly,+91 8073534258
+MAT2566,Wood,Structural,Humid,50+ years,Economy,Supplier_89,Limited,31,Commercial,0.32,Standard,+91 9969226517
+MAT2567,Clay,Decorative,Urban,25-50 years,Luxury,Supplier_47,Limited,36,Airports,0.15,Standard,+91 7383612833
+MAT2568,Fiber,Other,Coastal,10-25 years,Economy,Supplier_46,Limited,10,Other,0.49,Standard,+91 9553802633
+MAT2569,Glass,Other,Dry,25-50 years,Luxury,Supplier_46,Limited,55,Residential,0.11,Standard,+91 9553802633
+MAT2570,Cement,Structural,Coastal,50+ years,Premium,Supplier_15,In Stock,3,Bridges,0.82,Standard,+91 9855764195
+MAT2571,Steel,Other,Humid,10-25 years,Premium,Supplier_100,Limited,35,Commercial,0.58,Standard,+91 9271768077
+MAT2572,Aluminum,Insulation,Urban,50+ years,Luxury,Supplier_19,Limited,47,Marine structures,0.9,Eco-friendly,+91 7314006623
+MAT2573,Gypsum,Insulation,Moderate,10-25 years,Luxury,Supplier_60,Out of Stock,31,Marine structures,0.96,Eco-friendly,+91 7340314826
+MAT2574,PVC,Decorative,Urban,10-25 years,Economy,Supplier_15,In Stock,59,Tunnels,0.5,Standard,+91 9855764195
+MAT2575,Bitumen,Decorative,Coastal,10-25 years,Economy,Supplier_75,Out of Stock,1,Other,0.95,Standard,+91 7255077357
+MAT2576,Asphalt,Finishing,Mountain,5-10 years,Luxury,Supplier_66,Limited,13,Roads and highways,0.92,Standard,+91 8512956476
+MAT2577,Sandstone,Insulation,Urban,25-50 years,Luxury,Supplier_62,In Stock,18,High-rise buildings,0.22,Eco-friendly,+91 9124597330
+MAT2578,Concrete,Insulation,Hot,10-25 years,Standard,Supplier_66,In Stock,50,Bridges,0.59,Standard,+91 8512956476
+MAT2579,Plaster,Structural,Humid,50+ years,Luxury,Supplier_86,In Stock,7,Industrial plants,0.92,Standard,+91 9450871641
+MAT2580,Vinyl,Other,Moderate,5-10 years,Premium,Supplier_46,Out of Stock,39,Roads and highways,0.03,Standard,+91 9553802633
+MAT2581,Laminate,Decorative,Humid,5-10 years,Premium,Supplier_87,In Stock,21,High-rise buildings,0.96,Eco-friendly,+91 9193943710
+MAT2582,Bamboo,Facade,Dry,10-25 years,Luxury,Supplier_64,In Stock,6,Bridges,0.04,Eco-friendly,+91 7136693152
+MAT2583,Recycled Plastic,Other,Humid,5-10 years,Premium,Supplier_35,Limited,6,Residential,0.31,Eco-friendly,+91 7672697773
+MAT2584,Polycarbonate,Decorative,Urban,25-50 years,Premium,Supplier_35,Out of Stock,22,Airports,0.01,Eco-friendly,+91 7672697773
+MAT2585,Acrylic,Finishing,Humid,25-50 years,Standard,Supplier_28,Limited,17,Other,0.29,Eco-friendly,+91 8232645989
+MAT2586,Foam,Facade,Rural,10-25 years,Premium,Supplier_2,Out of Stock,46,Bridges,0.22,Standard,+91 9176504598
+MAT2587,Rubber,Decorative,Mountain,5-10 years,Standard,Supplier_82,Limited,6,Residential,0.29,Standard,+91 9679030191
+MAT2588,Other,Facade,Moderate,5-10 years,Economy,Supplier_45,In Stock,32,Other,0.29,Standard,+91 9747014289
+MAT2589,Limestone,Decorative,Industrial,25-50 years,Luxury,Supplier_24,Out of Stock,25,Airports,0.24,Standard,+91 7116226044
+MAT2590,Marble,Insulation,Urban,10-25 years,Economy,Supplier_79,Limited,12,Industrial plants,0.08,Eco-friendly,+91 9340848713
+MAT2591,Paint,Facade,Cold,25-50 years,Premium,Supplier_28,Out of Stock,40,Roads and highways,0.09,Eco-friendly,+91 8232645989
+MAT2592,Granite,Flooring,Moderate,25-50 years,Luxury,Supplier_50,Out of Stock,22,Infrastructure,0.34,Standard,+91 9224117961
+MAT2593,Copper,Facade,Hot,25-50 years,Luxury,Supplier_77,Limited,17,Tunnels,0.09,Standard,+91 9060217800
+MAT2594,Ceramic Tile,Structural,Urban,25-50 years,Economy,Supplier_32,Limited,31,Industrial plants,0.95,Standard,+91 9984893047
+MAT2595,Adhesive,Facade,Hot,10-25 years,Luxury,Supplier_28,Limited,36,High-rise buildings,0.11,Standard,+91 8232645989
+MAT2596,Brick,Finishing,Moderate,5-10 years,Premium,Supplier_2,Limited,38,Roads and highways,0.22,Standard,+91 9176504598
+MAT2597,Wood,Other,Industrial,10-25 years,Premium,Supplier_42,Limited,60,Industrial plants,0.66,Standard,+91 8406306174
+MAT2598,Clay,Decorative,Dry,5-10 years,Premium,Supplier_62,In Stock,25,Roads and highways,0.75,Standard,+91 9124597330
+MAT2599,Fiber,Finishing,Rural,50+ years,Standard,Supplier_22,Limited,8,Other,0.1,Standard,+91 9800188482
+MAT2600,Glass,Finishing,Industrial,5-10 years,Luxury,Supplier_62,Limited,38,Industrial plants,0.46,Standard,+91 9124597330
+MAT2601,Cement,Decorative,Rural,5-10 years,Economy,Supplier_79,Out of Stock,40,Bridges,0.45,Standard,+91 9340848713
+MAT2602,Steel,Insulation,Urban,25-50 years,Premium,Supplier_52,In Stock,24,Residential,0.46,Eco-friendly,+91 9350399941
+MAT2603,Aluminum,Decorative,Mountain,5-10 years,Premium,Supplier_94,Out of Stock,31,Infrastructure,0.99,Standard,+91 9479368062
+MAT2604,Gypsum,Insulation,Urban,25-50 years,Economy,Supplier_23,Out of Stock,55,Other,0.37,Standard,+91 9315879498
+MAT2605,PVC,Finishing,Cold,25-50 years,Premium,Supplier_99,Limited,60,Commercial,0.01,Standard,+91 7026320860
+MAT2606,Bitumen,Flooring,Moderate,10-25 years,Economy,Supplier_69,Out of Stock,45,Bridges,0.21,Eco-friendly,+91 8122680822
+MAT2607,Asphalt,Finishing,Moderate,50+ years,Premium,Supplier_98,Limited,31,Commercial,0.62,Eco-friendly,+91 9267705300
+MAT2608,Sandstone,Insulation,Other,25-50 years,Premium,Supplier_75,In Stock,57,Bridges,0.38,Standard,+91 7255077357
+MAT2609,Concrete,Insulation,Rural,25-50 years,Premium,Supplier_17,In Stock,51,Tunnels,0.1,Standard,+91 8388837996
+MAT2610,Plaster,Insulation,Mountain,50+ years,Premium,Supplier_16,In Stock,55,Other,0.37,Eco-friendly,+91 8065031990
+MAT2611,Vinyl,Other,Hot,5-10 years,Luxury,Supplier_25,Out of Stock,20,Bridges,0.19,Standard,+91 8713885374
+MAT2612,Laminate,Other,Humid,50+ years,Luxury,Supplier_54,Out of Stock,48,Infrastructure,0.67,Eco-friendly,+91 9458310307
+MAT2613,Bamboo,Facade,Hot,10-25 years,Standard,Supplier_83,In Stock,11,Marine structures,0.72,Eco-friendly,+91 8349419107
+MAT2614,Recycled Plastic,Insulation,Mountain,5-10 years,Standard,Supplier_68,Out of Stock,56,Roads and highways,0.95,Eco-friendly,+91 7549116721
+MAT2615,Polycarbonate,Facade,Mountain,10-25 years,Luxury,Supplier_14,Limited,28,Commercial,0.46,Standard,+91 8073534258
+MAT2616,Acrylic,Facade,Mountain,50+ years,Luxury,Supplier_46,In Stock,41,Industrial plants,0.32,Standard,+91 9553802633
+MAT2617,Foam,Decorative,Dry,50+ years,Premium,Supplier_50,Out of Stock,35,Marine structures,0.83,Eco-friendly,+91 9224117961
+MAT2618,Rubber,Facade,Rural,50+ years,Economy,Supplier_25,Limited,42,Tunnels,0.33,Eco-friendly,+91 8713885374
+MAT2619,Other,Flooring,Cold,25-50 years,Standard,Supplier_91,In Stock,12,Residential,0.47,Eco-friendly,+91 9064495443
+MAT2620,Limestone,Facade,Mountain,10-25 years,Premium,Supplier_78,Limited,24,Commercial,0.01,Standard,+91 8082914235
+MAT2621,Marble,Insulation,Rural,25-50 years,Standard,Supplier_87,Limited,14,Marine structures,0.95,Standard,+91 9193943710
+MAT2622,Paint,Other,Humid,25-50 years,Standard,Supplier_54,Limited,6,Roads and highways,0.66,Standard,+91 9458310307
+MAT2623,Granite,Facade,Urban,25-50 years,Economy,Supplier_72,In Stock,33,Industrial plants,0.6,Eco-friendly,+91 7818119199
+MAT2624,Copper,Facade,Moderate,25-50 years,Premium,Supplier_56,In Stock,32,Tunnels,0.6,Eco-friendly,+91 7103766984
+MAT2625,Ceramic Tile,Decorative,Mountain,10-25 years,Economy,Supplier_79,In Stock,21,Bridges,0.21,Standard,+91 9340848713
+MAT2626,Adhesive,Finishing,Rural,50+ years,Standard,Supplier_86,In Stock,37,Marine structures,0.28,Eco-friendly,+91 9450871641
+MAT2627,Brick,Decorative,Humid,25-50 years,Economy,Supplier_50,Out of Stock,58,Bridges,0.67,Eco-friendly,+91 9224117961
+MAT2628,Wood,Facade,Rural,10-25 years,Luxury,Supplier_57,Out of Stock,37,Residential,0.08,Standard,+91 9189872626
+MAT2629,Clay,Other,Urban,5-10 years,Premium,Supplier_23,Limited,29,Airports,0.45,Eco-friendly,+91 9315879498
+MAT2630,Fiber,Other,Other,50+ years,Luxury,Supplier_64,Out of Stock,10,Airports,0.38,Standard,+91 7136693152
+MAT2631,Glass,Structural,Dry,50+ years,Standard,Supplier_11,Out of Stock,32,Marine structures,0.9,Eco-friendly,+91 7562411160
+MAT2632,Cement,Flooring,Urban,5-10 years,Economy,Supplier_91,Limited,24,Industrial plants,0.42,Eco-friendly,+91 9064495443
+MAT2633,Steel,Facade,Mountain,25-50 years,Economy,Supplier_54,Out of Stock,45,Roads and highways,0.41,Eco-friendly,+91 9458310307
+MAT2634,Aluminum,Facade,Dry,10-25 years,Economy,Supplier_68,Out of Stock,11,Marine structures,0.13,Eco-friendly,+91 7549116721
+MAT2635,Gypsum,Finishing,Dry,50+ years,Standard,Supplier_19,Limited,53,High-rise buildings,0.86,Standard,+91 7314006623
+MAT2636,PVC,Flooring,Coastal,25-50 years,Premium,Supplier_83,Limited,37,Bridges,0.64,Standard,+91 8349419107
+MAT2637,Bitumen,Other,Cold,25-50 years,Luxury,Supplier_52,In Stock,43,Residential,0.38,Eco-friendly,+91 9350399941
+MAT2638,Asphalt,Facade,Hot,25-50 years,Premium,Supplier_78,In Stock,51,Bridges,0.46,Eco-friendly,+91 8082914235
+MAT2639,Sandstone,Decorative,Rural,5-10 years,Premium,Supplier_79,Out of Stock,11,Roads and highways,0.76,Standard,+91 9340848713
+MAT2640,Concrete,Facade,Urban,10-25 years,Premium,Supplier_62,Out of Stock,10,Roads and highways,0.39,Standard,+91 9124597330
+MAT2641,Plaster,Decorative,Industrial,5-10 years,Luxury,Supplier_87,In Stock,21,Industrial plants,0.68,Standard,+91 9193943710
+MAT2642,Vinyl,Decorative,Cold,50+ years,Premium,Supplier_4,In Stock,35,Industrial plants,0.64,Eco-friendly,+91 9985896477
+MAT2643,Laminate,Finishing,Cold,5-10 years,Premium,Supplier_29,Limited,39,Bridges,0.19,Eco-friendly,+91 8289363518
+MAT2644,Bamboo,Decorative,Hot,5-10 years,Economy,Supplier_81,Limited,4,Infrastructure,0.12,Standard,+91 8900263885
+MAT2645,Recycled Plastic,Decorative,Cold,10-25 years,Economy,Supplier_8,In Stock,41,Bridges,0.09,Eco-friendly,+91 8464226483
+MAT2646,Polycarbonate,Structural,Hot,10-25 years,Economy,Supplier_88,Out of Stock,33,Tunnels,0.15,Standard,+91 7610179969
+MAT2647,Acrylic,Structural,Mountain,10-25 years,Economy,Supplier_15,Limited,41,Commercial,0.72,Eco-friendly,+91 9855764195
+MAT2648,Foam,Insulation,Moderate,50+ years,Luxury,Supplier_87,Out of Stock,43,High-rise buildings,0.76,Eco-friendly,+91 9193943710
+MAT2649,Rubber,Structural,Cold,5-10 years,Economy,Supplier_76,Out of Stock,59,High-rise buildings,0.37,Eco-friendly,+91 7852225914
+MAT2650,Other,Insulation,Dry,50+ years,Economy,Supplier_70,Out of Stock,50,High-rise buildings,0.34,Eco-friendly,+91 8533177088
+MAT2651,Limestone,Structural,Dry,50+ years,Economy,Supplier_64,Limited,52,Marine structures,0.36,Eco-friendly,+91 7136693152
+MAT2652,Marble,Facade,Industrial,25-50 years,Economy,Supplier_13,Limited,21,Marine structures,0.47,Standard,+91 8348536286
+MAT2653,Paint,Finishing,Dry,50+ years,Standard,Supplier_49,Limited,44,High-rise buildings,0.57,Standard,+91 7981454092
+MAT2654,Granite,Other,Industrial,50+ years,Economy,Supplier_89,Limited,42,Residential,0.73,Eco-friendly,+91 9969226517
+MAT2655,Copper,Insulation,Dry,25-50 years,Premium,Supplier_4,Limited,54,Residential,0.31,Standard,+91 9985896477
+MAT2656,Ceramic Tile,Facade,Hot,5-10 years,Economy,Supplier_52,Out of Stock,43,Residential,0.65,Eco-friendly,+91 9350399941
+MAT2657,Adhesive,Decorative,Other,5-10 years,Standard,Supplier_27,In Stock,39,Industrial plants,0.2,Standard,+91 8524779487
+MAT2658,Brick,Facade,Moderate,5-10 years,Standard,Supplier_13,In Stock,46,Roads and highways,0.95,Eco-friendly,+91 8348536286
+MAT2659,Wood,Other,Industrial,25-50 years,Economy,Supplier_44,Limited,34,Infrastructure,0.6,Eco-friendly,+91 9090351901
+MAT2660,Clay,Facade,Industrial,10-25 years,Premium,Supplier_52,Out of Stock,34,Airports,0.91,Eco-friendly,+91 9350399941
+MAT2661,Fiber,Structural,Hot,5-10 years,Luxury,Supplier_23,Out of Stock,44,Marine structures,0.52,Standard,+91 9315879498
+MAT2662,Glass,Facade,Mountain,50+ years,Standard,Supplier_99,Limited,42,Infrastructure,0.73,Eco-friendly,+91 7026320860
+MAT2663,Cement,Structural,Coastal,5-10 years,Standard,Supplier_18,In Stock,11,Infrastructure,0.41,Eco-friendly,+91 8911997440
+MAT2664,Steel,Finishing,Urban,10-25 years,Premium,Supplier_75,Limited,45,Marine structures,0.77,Eco-friendly,+91 7255077357
+MAT2665,Aluminum,Structural,Moderate,50+ years,Luxury,Supplier_48,In Stock,50,Tunnels,0.56,Standard,+91 9115647592
+MAT2666,Gypsum,Other,Moderate,5-10 years,Luxury,Supplier_20,In Stock,46,Residential,0.67,Standard,+91 7796737492
+MAT2667,PVC,Structural,Cold,5-10 years,Standard,Supplier_74,In Stock,1,Tunnels,0.67,Standard,+91 7134476577
+MAT2668,Bitumen,Structural,Industrial,50+ years,Economy,Supplier_23,Out of Stock,34,Bridges,0.39,Standard,+91 9315879498
+MAT2669,Asphalt,Other,Other,10-25 years,Economy,Supplier_81,Limited,43,Airports,0.66,Standard,+91 8900263885
+MAT2670,Sandstone,Decorative,Mountain,50+ years,Premium,Supplier_18,Limited,16,Roads and highways,0.36,Eco-friendly,+91 8911997440
+MAT2671,Concrete,Structural,Other,5-10 years,Economy,Supplier_47,In Stock,10,Bridges,0.9,Standard,+91 7383612833
+MAT2672,Plaster,Facade,Urban,5-10 years,Premium,Supplier_3,In Stock,30,High-rise buildings,0.78,Standard,+91 9511694911
+MAT2673,Vinyl,Other,Other,5-10 years,Luxury,Supplier_37,In Stock,2,Residential,0.41,Standard,+91 9513313120
+MAT2674,Laminate,Insulation,Humid,50+ years,Premium,Supplier_8,In Stock,21,Infrastructure,0.44,Eco-friendly,+91 8464226483
+MAT2675,Bamboo,Other,Other,10-25 years,Standard,Supplier_16,In Stock,58,Residential,0.26,Standard,+91 8065031990
+MAT2676,Recycled Plastic,Insulation,Industrial,50+ years,Economy,Supplier_53,In Stock,54,High-rise buildings,0.83,Eco-friendly,+91 7870047913
+MAT2677,Polycarbonate,Decorative,Mountain,5-10 years,Standard,Supplier_28,Out of Stock,53,Roads and highways,0.24,Eco-friendly,+91 8232645989
+MAT2678,Acrylic,Structural,Moderate,5-10 years,Economy,Supplier_11,Limited,8,Bridges,0.51,Standard,+91 7562411160
+MAT2679,Foam,Flooring,Cold,10-25 years,Luxury,Supplier_79,Out of Stock,1,High-rise buildings,0.3,Eco-friendly,+91 9340848713
+MAT2680,Rubber,Flooring,Cold,10-25 years,Luxury,Supplier_2,Out of Stock,48,Marine structures,0.01,Eco-friendly,+91 9176504598
+MAT2681,Other,Finishing,Mountain,10-25 years,Premium,Supplier_73,Limited,57,High-rise buildings,0.29,Standard,+91 7195736923
+MAT2682,Limestone,Structural,Industrial,5-10 years,Economy,Supplier_52,In Stock,1,High-rise buildings,0.11,Standard,+91 9350399941
+MAT2683,Marble,Facade,Urban,25-50 years,Luxury,Supplier_53,Limited,37,Tunnels,0.22,Standard,+91 7870047913
+MAT2684,Paint,Insulation,Cold,50+ years,Economy,Supplier_13,Out of Stock,38,Marine structures,0.21,Standard,+91 8348536286
+MAT2685,Granite,Finishing,Coastal,5-10 years,Standard,Supplier_75,In Stock,17,Tunnels,0.77,Eco-friendly,+91 7255077357
+MAT2686,Copper,Other,Rural,5-10 years,Standard,Supplier_53,Limited,5,Infrastructure,0.38,Standard,+91 7870047913
+MAT2687,Ceramic Tile,Insulation,Industrial,25-50 years,Luxury,Supplier_12,In Stock,3,Airports,0.52,Eco-friendly,+91 8882665594
+MAT2688,Adhesive,Facade,Rural,50+ years,Luxury,Supplier_43,Out of Stock,49,Residential,0.15,Standard,+91 9038438301
+MAT2689,Brick,Other,Other,25-50 years,Luxury,Supplier_64,In Stock,23,Residential,0.86,Standard,+91 7136693152
+MAT2690,Wood,Finishing,Coastal,25-50 years,Premium,Supplier_65,Limited,28,High-rise buildings,0.36,Standard,+91 7085298648
+MAT2691,Clay,Flooring,Humid,10-25 years,Standard,Supplier_58,Limited,7,Tunnels,0.3,Eco-friendly,+91 8538848385
+MAT2692,Fiber,Facade,Urban,5-10 years,Standard,Supplier_55,Limited,55,Airports,0.02,Eco-friendly,+91 9963010084
+MAT2693,Glass,Facade,Dry,10-25 years,Standard,Supplier_44,In Stock,45,High-rise buildings,0.78,Eco-friendly,+91 9090351901
+MAT2694,Cement,Finishing,Cold,5-10 years,Luxury,Supplier_53,In Stock,42,Marine structures,0.11,Standard,+91 7870047913
+MAT2695,Steel,Finishing,Industrial,25-50 years,Premium,Supplier_21,Limited,20,Airports,0.48,Eco-friendly,+91 8310234613
+MAT2696,Aluminum,Other,Industrial,50+ years,Premium,Supplier_74,In Stock,57,Tunnels,0.8,Eco-friendly,+91 7134476577
+MAT2697,Gypsum,Facade,Other,5-10 years,Luxury,Supplier_84,In Stock,14,Marine structures,0.64,Eco-friendly,+91 9340399355
+MAT2698,PVC,Facade,Mountain,10-25 years,Economy,Supplier_32,Out of Stock,44,Infrastructure,0.41,Eco-friendly,+91 9984893047
+MAT2699,Bitumen,Structural,Rural,50+ years,Standard,Supplier_6,Out of Stock,55,Bridges,0.52,Standard,+91 8728518031
+MAT2700,Asphalt,Structural,Rural,5-10 years,Standard,Supplier_34,Out of Stock,8,Marine structures,0.73,Standard,+91 7166009399
+MAT2701,Sandstone,Other,Rural,25-50 years,Standard,Supplier_17,In Stock,14,Roads and highways,0.62,Eco-friendly,+91 8388837996
+MAT2702,Concrete,Decorative,Hot,25-50 years,Standard,Supplier_75,In Stock,51,High-rise buildings,0.24,Standard,+91 7255077357
+MAT2703,Plaster,Decorative,Other,25-50 years,Luxury,Supplier_57,Out of Stock,51,Marine structures,0.16,Standard,+91 9189872626
+MAT2704,Vinyl,Decorative,Cold,5-10 years,Luxury,Supplier_92,Out of Stock,30,Infrastructure,0.98,Eco-friendly,+91 8403005864
+MAT2705,Laminate,Insulation,Mountain,50+ years,Economy,Supplier_82,Limited,31,Airports,0.82,Eco-friendly,+91 9679030191
+MAT2706,Bamboo,Other,Humid,5-10 years,Premium,Supplier_16,In Stock,51,Tunnels,0.66,Eco-friendly,+91 8065031990
+MAT2707,Recycled Plastic,Structural,Rural,5-10 years,Luxury,Supplier_81,In Stock,40,Residential,0.28,Standard,+91 8900263885
+MAT2708,Polycarbonate,Facade,Mountain,25-50 years,Premium,Supplier_47,In Stock,57,Residential,0.48,Standard,+91 7383612833
+MAT2709,Acrylic,Insulation,Industrial,50+ years,Premium,Supplier_96,In Stock,16,Infrastructure,0.05,Eco-friendly,+91 8913440148
+MAT2710,Foam,Decorative,Moderate,5-10 years,Economy,Supplier_76,In Stock,50,Bridges,0.74,Standard,+91 7852225914
+MAT2711,Rubber,Finishing,Humid,50+ years,Economy,Supplier_11,In Stock,23,Roads and highways,0.03,Eco-friendly,+91 7562411160
+MAT2712,Other,Other,Other,50+ years,Standard,Supplier_16,Out of Stock,41,Marine structures,0.28,Eco-friendly,+91 8065031990
+MAT2713,Limestone,Flooring,Humid,10-25 years,Economy,Supplier_1,Limited,26,Marine structures,0.48,Standard,+91 9821243845
+MAT2714,Marble,Insulation,Industrial,25-50 years,Standard,Supplier_66,In Stock,34,Airports,0.53,Standard,+91 8512956476
+MAT2715,Paint,Other,Mountain,5-10 years,Economy,Supplier_68,Limited,38,Residential,0.32,Standard,+91 7549116721
+MAT2716,Granite,Flooring,Humid,5-10 years,Economy,Supplier_72,In Stock,35,Tunnels,0.45,Eco-friendly,+91 7818119199
+MAT2717,Copper,Flooring,Moderate,10-25 years,Standard,Supplier_6,Out of Stock,43,Roads and highways,0.61,Standard,+91 8728518031
+MAT2718,Ceramic Tile,Finishing,Other,10-25 years,Luxury,Supplier_48,Limited,17,Marine structures,0.66,Eco-friendly,+91 9115647592
+MAT2719,Adhesive,Insulation,Hot,10-25 years,Luxury,Supplier_98,Out of Stock,30,Tunnels,0.89,Standard,+91 9267705300
+MAT2720,Brick,Facade,Mountain,25-50 years,Economy,Supplier_17,Limited,38,Residential,0.45,Eco-friendly,+91 8388837996
+MAT2721,Wood,Decorative,Rural,10-25 years,Standard,Supplier_65,Limited,29,High-rise buildings,0.52,Eco-friendly,+91 7085298648
+MAT2722,Clay,Decorative,Rural,10-25 years,Economy,Supplier_24,Limited,56,High-rise buildings,0.73,Eco-friendly,+91 7116226044
+MAT2723,Fiber,Structural,Cold,10-25 years,Economy,Supplier_51,In Stock,22,Infrastructure,0.62,Eco-friendly,+91 8070304578
+MAT2724,Glass,Insulation,Other,10-25 years,Premium,Supplier_19,In Stock,39,Marine structures,0.41,Eco-friendly,+91 7314006623
+MAT2725,Cement,Insulation,Mountain,50+ years,Economy,Supplier_35,In Stock,38,Industrial plants,0.53,Eco-friendly,+91 7672697773
+MAT2726,Steel,Facade,Coastal,10-25 years,Luxury,Supplier_88,Limited,26,Industrial plants,0.11,Standard,+91 7610179969
+MAT2727,Aluminum,Finishing,Coastal,25-50 years,Luxury,Supplier_3,In Stock,45,Other,0.25,Standard,+91 9511694911
+MAT2728,Gypsum,Structural,Dry,10-25 years,Economy,Supplier_99,Limited,40,Other,0.91,Standard,+91 7026320860
+MAT2729,PVC,Structural,Humid,5-10 years,Standard,Supplier_60,Out of Stock,6,Roads and highways,0.02,Eco-friendly,+91 7340314826
+MAT2730,Bitumen,Other,Rural,5-10 years,Luxury,Supplier_60,In Stock,57,Bridges,0.68,Standard,+91 7340314826
+MAT2731,Asphalt,Insulation,Urban,50+ years,Economy,Supplier_85,Limited,43,Roads and highways,0.17,Standard,+91 7128338124
+MAT2732,Sandstone,Flooring,Cold,10-25 years,Economy,Supplier_54,Limited,24,High-rise buildings,0.83,Standard,+91 9458310307
+MAT2733,Concrete,Finishing,Coastal,50+ years,Economy,Supplier_15,In Stock,54,Airports,0.8,Eco-friendly,+91 9855764195
+MAT2734,Plaster,Finishing,Cold,10-25 years,Economy,Supplier_70,In Stock,34,Industrial plants,0.91,Eco-friendly,+91 8533177088
+MAT2735,Vinyl,Decorative,Rural,25-50 years,Economy,Supplier_21,Out of Stock,17,Bridges,0.44,Eco-friendly,+91 8310234613
+MAT2736,Laminate,Insulation,Rural,50+ years,Standard,Supplier_9,In Stock,60,Bridges,0.41,Eco-friendly,+91 8602792578
+MAT2737,Bamboo,Other,Hot,5-10 years,Premium,Supplier_66,Out of Stock,9,Other,0.58,Eco-friendly,+91 8512956476
+MAT2738,Recycled Plastic,Insulation,Moderate,5-10 years,Premium,Supplier_44,Out of Stock,32,Industrial plants,0.29,Eco-friendly,+91 9090351901
+MAT2739,Polycarbonate,Other,Coastal,50+ years,Luxury,Supplier_57,Limited,59,High-rise buildings,0.6,Eco-friendly,+91 9189872626
+MAT2740,Acrylic,Other,Mountain,25-50 years,Premium,Supplier_11,Out of Stock,6,Tunnels,0.08,Standard,+91 7562411160
+MAT2741,Foam,Finishing,Cold,10-25 years,Luxury,Supplier_100,In Stock,20,Roads and highways,0.79,Standard,+91 9271768077
+MAT2742,Rubber,Finishing,Hot,5-10 years,Luxury,Supplier_68,Out of Stock,24,Tunnels,0.32,Standard,+91 7549116721
+MAT2743,Other,Decorative,Rural,5-10 years,Economy,Supplier_97,Limited,7,Roads and highways,0.64,Eco-friendly,+91 7508473815
+MAT2744,Limestone,Other,Cold,50+ years,Standard,Supplier_40,Limited,37,Industrial plants,0.27,Standard,+91 9781709582
+MAT2745,Marble,Facade,Cold,25-50 years,Standard,Supplier_61,Limited,37,Roads and highways,0.82,Standard,+91 8696176323
+MAT2746,Paint,Decorative,Industrial,5-10 years,Luxury,Supplier_88,Out of Stock,17,High-rise buildings,0.02,Standard,+91 7610179969
+MAT2747,Granite,Facade,Other,10-25 years,Standard,Supplier_27,In Stock,29,Tunnels,0.63,Standard,+91 8524779487
+MAT2748,Copper,Structural,Industrial,10-25 years,Economy,Supplier_36,In Stock,16,Commercial,0.26,Standard,+91 9803405485
+MAT2749,Ceramic Tile,Structural,Urban,25-50 years,Luxury,Supplier_43,Limited,31,Industrial plants,0.89,Eco-friendly,+91 9038438301
+MAT2750,Adhesive,Insulation,Other,25-50 years,Standard,Supplier_64,Out of Stock,3,Other,0.8,Standard,+91 7136693152
+MAT2751,Brick,Flooring,Dry,10-25 years,Luxury,Supplier_79,In Stock,38,Marine structures,0.52,Eco-friendly,+91 9340848713
+MAT2752,Wood,Structural,Coastal,50+ years,Luxury,Supplier_47,Limited,44,Industrial plants,0.28,Eco-friendly,+91 7383612833
+MAT2753,Clay,Flooring,Cold,5-10 years,Premium,Supplier_29,Out of Stock,35,Industrial plants,0.49,Standard,+91 8289363518
+MAT2754,Fiber,Finishing,Hot,5-10 years,Luxury,Supplier_80,In Stock,4,Infrastructure,0.24,Standard,+91 8234607783
+MAT2755,Glass,Insulation,Industrial,25-50 years,Luxury,Supplier_72,Out of Stock,18,Roads and highways,0.78,Eco-friendly,+91 7818119199
+MAT2756,Cement,Decorative,Cold,10-25 years,Luxury,Supplier_72,In Stock,60,Commercial,0.56,Standard,+91 7818119199
+MAT2757,Steel,Insulation,Moderate,50+ years,Premium,Supplier_97,Limited,42,Tunnels,0.5,Standard,+91 7508473815
+MAT2758,Aluminum,Insulation,Mountain,5-10 years,Standard,Supplier_29,Out of Stock,32,Bridges,0.22,Eco-friendly,+91 8289363518
+MAT2759,Gypsum,Insulation,Rural,25-50 years,Luxury,Supplier_60,Limited,38,High-rise buildings,0.3,Standard,+91 7340314826
+MAT2760,PVC,Other,Humid,5-10 years,Luxury,Supplier_48,Limited,44,High-rise buildings,0.79,Standard,+91 9115647592
+MAT2761,Bitumen,Other,Other,10-25 years,Premium,Supplier_15,In Stock,52,High-rise buildings,0.83,Eco-friendly,+91 9855764195
+MAT2762,Asphalt,Other,Rural,50+ years,Premium,Supplier_14,In Stock,13,High-rise buildings,0.57,Standard,+91 8073534258
+MAT2763,Sandstone,Finishing,Other,50+ years,Premium,Supplier_52,Out of Stock,11,Airports,0.21,Standard,+91 9350399941
+MAT2764,Concrete,Finishing,Coastal,50+ years,Standard,Supplier_93,Out of Stock,16,Infrastructure,0.32,Standard,+91 7108254575
+MAT2765,Plaster,Flooring,Industrial,25-50 years,Standard,Supplier_95,In Stock,19,Tunnels,0.77,Eco-friendly,+91 9970401522
+MAT2766,Vinyl,Structural,Industrial,50+ years,Luxury,Supplier_52,In Stock,4,Other,0.42,Standard,+91 9350399941
+MAT2767,Laminate,Finishing,Urban,10-25 years,Premium,Supplier_42,Out of Stock,53,Industrial plants,0.63,Eco-friendly,+91 8406306174
+MAT2768,Bamboo,Flooring,Hot,5-10 years,Premium,Supplier_92,Out of Stock,42,Residential,0.93,Eco-friendly,+91 8403005864
+MAT2769,Recycled Plastic,Structural,Coastal,10-25 years,Standard,Supplier_59,Limited,30,Tunnels,0.49,Standard,+91 8073945840
+MAT2770,Polycarbonate,Insulation,Humid,5-10 years,Luxury,Supplier_56,In Stock,44,Roads and highways,0.18,Standard,+91 7103766984
+MAT2771,Acrylic,Structural,Moderate,5-10 years,Luxury,Supplier_10,Out of Stock,24,Marine structures,0.86,Eco-friendly,+91 9321334334
+MAT2772,Foam,Decorative,Dry,10-25 years,Premium,Supplier_29,Out of Stock,5,Bridges,0.85,Standard,+91 8289363518
+MAT2773,Rubber,Insulation,Humid,25-50 years,Premium,Supplier_16,Limited,40,Airports,0.19,Eco-friendly,+91 8065031990
+MAT2774,Other,Finishing,Humid,25-50 years,Premium,Supplier_86,Limited,51,Infrastructure,0.47,Standard,+91 9450871641
+MAT2775,Limestone,Decorative,Coastal,50+ years,Luxury,Supplier_76,In Stock,39,Industrial plants,0.23,Eco-friendly,+91 7852225914
+MAT2776,Marble,Other,Moderate,25-50 years,Premium,Supplier_25,In Stock,59,Commercial,0.72,Eco-friendly,+91 8713885374
+MAT2777,Paint,Facade,Cold,50+ years,Economy,Supplier_77,Limited,58,Residential,0.32,Eco-friendly,+91 9060217800
+MAT2778,Granite,Flooring,Industrial,25-50 years,Economy,Supplier_78,Out of Stock,27,Roads and highways,0.42,Eco-friendly,+91 8082914235
+MAT2779,Copper,Facade,Other,10-25 years,Luxury,Supplier_17,In Stock,29,Residential,0.45,Standard,+91 8388837996
+MAT2780,Ceramic Tile,Flooring,Moderate,25-50 years,Standard,Supplier_1,Limited,38,Other,0.48,Standard,+91 9821243845
+MAT2781,Adhesive,Facade,Dry,5-10 years,Luxury,Supplier_9,Out of Stock,39,Industrial plants,0.42,Standard,+91 8602792578
+MAT2782,Brick,Structural,Mountain,10-25 years,Economy,Supplier_40,In Stock,16,High-rise buildings,0.31,Eco-friendly,+91 9781709582
+MAT2783,Wood,Decorative,Cold,10-25 years,Economy,Supplier_88,Limited,45,Infrastructure,0.89,Standard,+91 7610179969
+MAT2784,Clay,Decorative,Moderate,10-25 years,Premium,Supplier_45,Limited,21,Other,0.08,Eco-friendly,+91 9747014289
+MAT2785,Fiber,Other,Hot,5-10 years,Standard,Supplier_90,Limited,14,Roads and highways,0.61,Standard,+91 8844758293
+MAT2786,Glass,Finishing,Hot,10-25 years,Luxury,Supplier_90,Out of Stock,20,Other,0.89,Standard,+91 8844758293
+MAT2787,Cement,Flooring,Dry,10-25 years,Luxury,Supplier_41,Limited,23,Marine structures,0.89,Standard,+91 7742047658
+MAT2788,Steel,Insulation,Other,50+ years,Luxury,Supplier_13,Limited,52,Other,0.53,Standard,+91 8348536286
+MAT2789,Aluminum,Flooring,Mountain,50+ years,Luxury,Supplier_91,Limited,21,Commercial,0.72,Standard,+91 9064495443
+MAT2790,Gypsum,Decorative,Industrial,5-10 years,Standard,Supplier_41,Out of Stock,24,Other,0.83,Eco-friendly,+91 7742047658
+MAT2791,PVC,Other,Dry,25-50 years,Premium,Supplier_66,Limited,28,Other,0.77,Eco-friendly,+91 8512956476
+MAT2792,Bitumen,Facade,Cold,25-50 years,Standard,Supplier_62,Limited,26,Commercial,0.9,Standard,+91 9124597330
+MAT2793,Asphalt,Decorative,Hot,10-25 years,Economy,Supplier_60,Out of Stock,14,High-rise buildings,0.3,Standard,+91 7340314826
+MAT2794,Sandstone,Finishing,Humid,25-50 years,Luxury,Supplier_56,Limited,24,Bridges,0.29,Eco-friendly,+91 7103766984
+MAT2795,Concrete,Decorative,Cold,50+ years,Premium,Supplier_94,Limited,46,Roads and highways,0.76,Eco-friendly,+91 9479368062
+MAT2796,Plaster,Finishing,Hot,5-10 years,Standard,Supplier_66,Out of Stock,24,Bridges,0.24,Standard,+91 8512956476
+MAT2797,Vinyl,Finishing,Rural,50+ years,Economy,Supplier_94,Out of Stock,29,Tunnels,0.63,Eco-friendly,+91 9479368062
+MAT2798,Laminate,Facade,Humid,5-10 years,Economy,Supplier_14,In Stock,2,Other,0.43,Standard,+91 8073534258
+MAT2799,Bamboo,Other,Mountain,10-25 years,Economy,Supplier_69,Limited,49,Infrastructure,0.65,Standard,+91 8122680822
+MAT2800,Recycled Plastic,Facade,Industrial,5-10 years,Standard,Supplier_30,Out of Stock,56,High-rise buildings,0.08,Eco-friendly,+91 9297528863
+MAT2801,Polycarbonate,Decorative,Mountain,25-50 years,Standard,Supplier_52,In Stock,49,Residential,0.75,Standard,+91 9350399941
+MAT2802,Acrylic,Flooring,Coastal,50+ years,Premium,Supplier_22,Out of Stock,16,Commercial,0.92,Standard,+91 9800188482
+MAT2803,Foam,Facade,Moderate,10-25 years,Premium,Supplier_21,Limited,16,Roads and highways,0.38,Eco-friendly,+91 8310234613
+MAT2804,Rubber,Structural,Cold,5-10 years,Economy,Supplier_12,In Stock,59,Roads and highways,0.9,Eco-friendly,+91 8882665594
+MAT2805,Other,Decorative,Industrial,50+ years,Economy,Supplier_20,In Stock,12,Bridges,0.7,Standard,+91 7796737492
+MAT2806,Limestone,Flooring,Hot,5-10 years,Standard,Supplier_91,Out of Stock,36,Other,0.48,Standard,+91 9064495443
+MAT2807,Marble,Other,Hot,25-50 years,Premium,Supplier_95,Limited,44,Tunnels,0.59,Standard,+91 9970401522
+MAT2808,Paint,Other,Cold,50+ years,Luxury,Supplier_3,Limited,8,Roads and highways,0.91,Standard,+91 9511694911
+MAT2809,Granite,Decorative,Dry,50+ years,Standard,Supplier_88,In Stock,1,Other,0.15,Eco-friendly,+91 7610179969
+MAT2810,Copper,Other,Humid,5-10 years,Economy,Supplier_58,Limited,32,Bridges,0.58,Standard,+91 8538848385
+MAT2811,Ceramic Tile,Insulation,Humid,10-25 years,Economy,Supplier_81,In Stock,14,Bridges,0.65,Standard,+91 8900263885
+MAT2812,Adhesive,Other,Rural,5-10 years,Premium,Supplier_19,Limited,2,Infrastructure,0.64,Eco-friendly,+91 7314006623
+MAT2813,Brick,Finishing,Mountain,25-50 years,Economy,Supplier_90,Out of Stock,29,Bridges,0.66,Standard,+91 8844758293
+MAT2814,Wood,Flooring,Urban,50+ years,Luxury,Supplier_77,Limited,18,Industrial plants,0.74,Eco-friendly,+91 9060217800
+MAT2815,Clay,Flooring,Mountain,50+ years,Premium,Supplier_14,Limited,58,Marine structures,0.21,Eco-friendly,+91 8073534258
+MAT2816,Fiber,Structural,Coastal,25-50 years,Luxury,Supplier_17,Out of Stock,19,High-rise buildings,0,Standard,+91 8388837996
+MAT2817,Glass,Facade,Humid,5-10 years,Luxury,Supplier_61,Out of Stock,30,High-rise buildings,0.51,Standard,+91 8696176323
+MAT2818,Cement,Flooring,Mountain,50+ years,Economy,Supplier_3,In Stock,54,Bridges,0.86,Standard,+91 9511694911
+MAT2819,Steel,Insulation,Humid,25-50 years,Luxury,Supplier_44,Limited,46,Airports,0.01,Eco-friendly,+91 9090351901
+MAT2820,Aluminum,Flooring,Moderate,50+ years,Standard,Supplier_90,Limited,5,Residential,0.01,Eco-friendly,+91 8844758293
+MAT2821,Gypsum,Facade,Humid,5-10 years,Luxury,Supplier_68,Out of Stock,11,Infrastructure,0.35,Eco-friendly,+91 7549116721
+MAT2822,PVC,Facade,Rural,5-10 years,Standard,Supplier_47,Out of Stock,35,Infrastructure,0.44,Standard,+91 7383612833
+MAT2823,Bitumen,Other,Dry,10-25 years,Luxury,Supplier_14,Out of Stock,27,Commercial,0.39,Eco-friendly,+91 8073534258
+MAT2824,Asphalt,Finishing,Humid,10-25 years,Economy,Supplier_72,Out of Stock,13,Bridges,0.31,Eco-friendly,+91 7818119199
+MAT2825,Sandstone,Insulation,Urban,5-10 years,Luxury,Supplier_50,Out of Stock,52,Industrial plants,0.25,Eco-friendly,+91 9224117961
+MAT2826,Concrete,Facade,Moderate,5-10 years,Luxury,Supplier_67,In Stock,57,Industrial plants,0.63,Eco-friendly,+91 9809772815
+MAT2827,Plaster,Finishing,Cold,5-10 years,Luxury,Supplier_18,Out of Stock,34,Airports,0.84,Eco-friendly,+91 8911997440
+MAT2828,Vinyl,Facade,Humid,5-10 years,Premium,Supplier_64,Out of Stock,3,Residential,0.84,Eco-friendly,+91 7136693152
+MAT2829,Laminate,Other,Moderate,50+ years,Standard,Supplier_71,In Stock,10,Airports,0.9,Eco-friendly,+91 9665352711
+MAT2830,Bamboo,Flooring,Rural,5-10 years,Luxury,Supplier_28,In Stock,51,Marine structures,0.57,Standard,+91 8232645989
+MAT2831,Recycled Plastic,Other,Dry,10-25 years,Standard,Supplier_2,Limited,51,Airports,0.31,Eco-friendly,+91 9176504598
+MAT2832,Polycarbonate,Decorative,Urban,25-50 years,Economy,Supplier_51,In Stock,34,High-rise buildings,0.1,Standard,+91 8070304578
+MAT2833,Acrylic,Finishing,Rural,5-10 years,Standard,Supplier_79,Limited,41,Industrial plants,0.92,Standard,+91 9340848713
+MAT2834,Foam,Insulation,Mountain,5-10 years,Economy,Supplier_56,In Stock,53,Bridges,0.71,Eco-friendly,+91 7103766984
+MAT2835,Rubber,Structural,Moderate,50+ years,Premium,Supplier_3,Out of Stock,30,Industrial plants,0.63,Eco-friendly,+91 9511694911
+MAT2836,Other,Structural,Rural,10-25 years,Premium,Supplier_32,Out of Stock,54,Industrial plants,0.59,Standard,+91 9984893047
+MAT2837,Limestone,Finishing,Humid,5-10 years,Premium,Supplier_26,Out of Stock,50,Residential,0.81,Standard,+91 7207132227
+MAT2838,Marble,Other,Moderate,5-10 years,Economy,Supplier_39,In Stock,7,Other,0.05,Eco-friendly,+91 8458974196
+MAT2839,Paint,Other,Other,5-10 years,Premium,Supplier_26,Out of Stock,38,Tunnels,0.87,Standard,+91 7207132227
+MAT2840,Granite,Flooring,Humid,5-10 years,Standard,Supplier_83,Limited,6,High-rise buildings,0.34,Eco-friendly,+91 8349419107
+MAT2841,Copper,Finishing,Rural,10-25 years,Economy,Supplier_5,In Stock,34,High-rise buildings,0.14,Standard,+91 7740385731
+MAT2842,Ceramic Tile,Finishing,Industrial,5-10 years,Economy,Supplier_78,Limited,38,Other,0.71,Standard,+91 8082914235
+MAT2843,Adhesive,Finishing,Urban,25-50 years,Premium,Supplier_93,Limited,52,Other,0.49,Standard,+91 7108254575
+MAT2844,Brick,Decorative,Mountain,5-10 years,Premium,Supplier_34,In Stock,35,Industrial plants,0.03,Standard,+91 7166009399
+MAT2845,Wood,Finishing,Rural,25-50 years,Standard,Supplier_33,In Stock,11,Airports,0.73,Eco-friendly,+91 8687011225
+MAT2846,Clay,Other,Industrial,10-25 years,Economy,Supplier_23,Limited,39,Other,0.27,Eco-friendly,+91 9315879498
+MAT2847,Fiber,Decorative,Moderate,50+ years,Luxury,Supplier_79,Limited,2,Airports,0.31,Standard,+91 9340848713
+MAT2848,Glass,Other,Dry,10-25 years,Standard,Supplier_89,Limited,16,Commercial,0.4,Eco-friendly,+91 9969226517
+MAT2849,Cement,Decorative,Mountain,50+ years,Luxury,Supplier_81,Limited,3,Infrastructure,0.39,Standard,+91 8900263885
+MAT2850,Steel,Facade,Rural,50+ years,Economy,Supplier_87,In Stock,23,Roads and highways,0.98,Standard,+91 9193943710
+MAT2851,Aluminum,Insulation,Humid,50+ years,Economy,Supplier_4,Out of Stock,10,Commercial,0.68,Standard,+91 9985896477
+MAT2852,Gypsum,Flooring,Other,50+ years,Luxury,Supplier_12,Limited,43,Marine structures,0.66,Eco-friendly,+91 8882665594
+MAT2853,PVC,Other,Mountain,25-50 years,Economy,Supplier_12,In Stock,38,Roads and highways,0.73,Eco-friendly,+91 8882665594
+MAT2854,Bitumen,Structural,Hot,5-10 years,Premium,Supplier_65,In Stock,33,Industrial plants,0.02,Eco-friendly,+91 7085298648
+MAT2855,Asphalt,Decorative,Hot,25-50 years,Economy,Supplier_19,In Stock,19,Roads and highways,0.52,Standard,+91 7314006623
+MAT2856,Sandstone,Finishing,Rural,50+ years,Premium,Supplier_6,In Stock,9,Other,0.15,Eco-friendly,+91 8728518031
+MAT2857,Concrete,Facade,Coastal,5-10 years,Luxury,Supplier_60,In Stock,24,Roads and highways,0.02,Standard,+91 7340314826
+MAT2858,Plaster,Insulation,Industrial,50+ years,Standard,Supplier_89,Limited,26,Other,0.37,Standard,+91 9969226517
+MAT2859,Vinyl,Facade,Urban,5-10 years,Luxury,Supplier_74,Limited,28,Roads and highways,0.57,Standard,+91 7134476577
+MAT2860,Laminate,Insulation,Rural,10-25 years,Standard,Supplier_46,Out of Stock,53,Roads and highways,0.55,Eco-friendly,+91 9553802633
+MAT2861,Bamboo,Decorative,Hot,5-10 years,Standard,Supplier_14,In Stock,49,Commercial,0.73,Standard,+91 8073534258
+MAT2862,Recycled Plastic,Decorative,Industrial,50+ years,Premium,Supplier_91,Out of Stock,3,Industrial plants,0.96,Eco-friendly,+91 9064495443
+MAT2863,Polycarbonate,Other,Humid,50+ years,Premium,Supplier_50,Out of Stock,26,Airports,0.82,Eco-friendly,+91 9224117961
+MAT2864,Acrylic,Other,Rural,10-25 years,Premium,Supplier_16,Limited,17,Residential,0.29,Eco-friendly,+91 8065031990
+MAT2865,Foam,Insulation,Humid,10-25 years,Luxury,Supplier_71,Out of Stock,15,Commercial,0.5,Eco-friendly,+91 9665352711
+MAT2866,Rubber,Structural,Cold,10-25 years,Economy,Supplier_98,Out of Stock,10,Bridges,0.26,Standard,+91 9267705300
+MAT2867,Other,Flooring,Urban,25-50 years,Standard,Supplier_88,In Stock,38,Other,0.98,Standard,+91 7610179969
+MAT2868,Limestone,Insulation,Coastal,10-25 years,Standard,Supplier_4,In Stock,13,High-rise buildings,0.98,Standard,+91 9985896477
+MAT2869,Marble,Facade,Cold,5-10 years,Luxury,Supplier_93,Limited,20,Airports,0.2,Eco-friendly,+91 7108254575
+MAT2870,Paint,Finishing,Industrial,25-50 years,Economy,Supplier_25,Out of Stock,11,High-rise buildings,0.69,Eco-friendly,+91 8713885374
+MAT2871,Granite,Structural,Mountain,50+ years,Economy,Supplier_37,Limited,54,Airports,0.83,Standard,+91 9513313120
+MAT2872,Copper,Structural,Cold,5-10 years,Luxury,Supplier_25,Limited,53,Commercial,0.12,Standard,+91 8713885374
+MAT2873,Ceramic Tile,Finishing,Rural,10-25 years,Premium,Supplier_59,Out of Stock,45,Residential,0.69,Standard,+91 8073945840
+MAT2874,Adhesive,Flooring,Mountain,50+ years,Economy,Supplier_83,Out of Stock,33,Roads and highways,0.55,Eco-friendly,+91 8349419107
+MAT2875,Brick,Structural,Mountain,25-50 years,Standard,Supplier_66,Out of Stock,6,Residential,0.97,Eco-friendly,+91 8512956476
+MAT2876,Wood,Facade,Industrial,10-25 years,Economy,Supplier_67,Limited,16,Roads and highways,0.32,Standard,+91 9809772815
+MAT2877,Clay,Insulation,Mountain,10-25 years,Standard,Supplier_65,Limited,15,Roads and highways,0.86,Standard,+91 7085298648
+MAT2878,Fiber,Other,Other,5-10 years,Luxury,Supplier_32,Out of Stock,39,High-rise buildings,0.18,Standard,+91 9984893047
+MAT2879,Glass,Structural,Hot,50+ years,Premium,Supplier_48,Out of Stock,2,Infrastructure,0.81,Eco-friendly,+91 9115647592
+MAT2880,Cement,Decorative,Hot,5-10 years,Luxury,Supplier_37,Limited,39,Airports,0.01,Eco-friendly,+91 9513313120
+MAT2881,Steel,Other,Hot,10-25 years,Premium,Supplier_69,In Stock,23,Residential,0.14,Eco-friendly,+91 8122680822
+MAT2882,Aluminum,Other,Mountain,25-50 years,Premium,Supplier_48,In Stock,42,Residential,0.84,Standard,+91 9115647592
+MAT2883,Gypsum,Structural,Dry,50+ years,Economy,Supplier_98,Out of Stock,9,Other,0.96,Standard,+91 9267705300
+MAT2884,PVC,Structural,Other,10-25 years,Luxury,Supplier_38,In Stock,18,Marine structures,0.5,Standard,+91 8178252144
+MAT2885,Bitumen,Facade,Urban,5-10 years,Economy,Supplier_98,Out of Stock,26,Bridges,0.8,Standard,+91 9267705300
+MAT2886,Asphalt,Decorative,Dry,5-10 years,Standard,Supplier_94,Limited,50,Marine structures,0.44,Eco-friendly,+91 9479368062
+MAT2887,Sandstone,Facade,Mountain,5-10 years,Economy,Supplier_66,In Stock,56,High-rise buildings,0.09,Eco-friendly,+91 8512956476
+MAT2888,Concrete,Structural,Moderate,10-25 years,Standard,Supplier_14,Limited,17,Industrial plants,0.36,Eco-friendly,+91 8073534258
+MAT2889,Plaster,Insulation,Coastal,5-10 years,Premium,Supplier_52,Out of Stock,19,Infrastructure,0.24,Standard,+91 9350399941
+MAT2890,Vinyl,Flooring,Industrial,50+ years,Luxury,Supplier_49,In Stock,56,Residential,0.26,Standard,+91 7981454092
+MAT2891,Laminate,Finishing,Rural,25-50 years,Luxury,Supplier_74,Limited,57,Bridges,0.61,Standard,+91 7134476577
+MAT2892,Bamboo,Decorative,Moderate,50+ years,Premium,Supplier_72,Out of Stock,16,Commercial,0.13,Eco-friendly,+91 7818119199
+MAT2893,Recycled Plastic,Facade,Urban,50+ years,Premium,Supplier_69,Out of Stock,50,Commercial,0.4,Standard,+91 8122680822
+MAT2894,Polycarbonate,Structural,Other,25-50 years,Standard,Supplier_59,Limited,28,High-rise buildings,0.36,Eco-friendly,+91 8073945840
+MAT2895,Acrylic,Other,Dry,10-25 years,Standard,Supplier_99,Limited,29,Tunnels,0.44,Standard,+91 7026320860
+MAT2896,Foam,Other,Hot,25-50 years,Premium,Supplier_48,In Stock,7,Bridges,0.33,Eco-friendly,+91 9115647592
+MAT2897,Rubber,Finishing,Hot,5-10 years,Economy,Supplier_48,In Stock,50,Tunnels,0.87,Eco-friendly,+91 9115647592
+MAT2898,Other,Facade,Mountain,5-10 years,Standard,Supplier_82,In Stock,9,Residential,0.48,Eco-friendly,+91 9679030191
+MAT2899,Limestone,Flooring,Coastal,5-10 years,Standard,Supplier_19,Limited,55,Airports,0.04,Eco-friendly,+91 7314006623
+MAT2900,Marble,Facade,Cold,25-50 years,Standard,Supplier_44,Limited,47,Tunnels,0.52,Eco-friendly,+91 9090351901
+MAT2901,Paint,Flooring,Industrial,10-25 years,Luxury,Supplier_3,In Stock,58,Industrial plants,0.85,Eco-friendly,+91 9511694911
+MAT2902,Granite,Other,Hot,50+ years,Premium,Supplier_82,In Stock,41,Tunnels,0.02,Eco-friendly,+91 9679030191
+MAT2903,Copper,Decorative,Rural,10-25 years,Premium,Supplier_9,Out of Stock,7,Industrial plants,0.67,Eco-friendly,+91 8602792578
+MAT2904,Ceramic Tile,Decorative,Industrial,5-10 years,Luxury,Supplier_9,Limited,20,Other,0.5,Standard,+91 8602792578
+MAT2905,Adhesive,Facade,Moderate,25-50 years,Luxury,Supplier_81,Out of Stock,57,Airports,0.66,Standard,+91 8900263885
+MAT2906,Brick,Finishing,Industrial,10-25 years,Standard,Supplier_82,Out of Stock,49,Industrial plants,0.14,Standard,+91 9679030191
+MAT2907,Wood,Insulation,Humid,25-50 years,Luxury,Supplier_86,Out of Stock,59,Marine structures,0.6,Standard,+91 9450871641
+MAT2908,Clay,Structural,Cold,50+ years,Standard,Supplier_49,Limited,17,Marine structures,0.63,Standard,+91 7981454092
+MAT2909,Fiber,Structural,Other,10-25 years,Economy,Supplier_93,In Stock,21,High-rise buildings,0.16,Standard,+91 7108254575
+MAT2910,Glass,Flooring,Cold,5-10 years,Standard,Supplier_82,In Stock,9,Airports,0.43,Eco-friendly,+91 9679030191
+MAT2911,Cement,Facade,Dry,5-10 years,Economy,Supplier_85,Limited,4,Other,0.95,Standard,+91 7128338124
+MAT2912,Steel,Flooring,Moderate,25-50 years,Luxury,Supplier_27,In Stock,34,Bridges,0.26,Eco-friendly,+91 8524779487
+MAT2913,Aluminum,Flooring,Dry,50+ years,Standard,Supplier_20,Limited,33,Commercial,0.55,Eco-friendly,+91 7796737492
+MAT2914,Gypsum,Facade,Humid,5-10 years,Economy,Supplier_9,Limited,37,Roads and highways,0.87,Eco-friendly,+91 8602792578
+MAT2915,PVC,Finishing,Other,25-50 years,Economy,Supplier_81,In Stock,4,Commercial,0.84,Standard,+91 8900263885
+MAT2916,Bitumen,Insulation,Moderate,25-50 years,Luxury,Supplier_11,In Stock,41,High-rise buildings,0.88,Eco-friendly,+91 7562411160
+MAT2917,Asphalt,Other,Rural,5-10 years,Standard,Supplier_28,In Stock,20,Tunnels,0.45,Eco-friendly,+91 8232645989
+MAT2918,Sandstone,Insulation,Urban,10-25 years,Standard,Supplier_27,Out of Stock,48,Residential,0.54,Standard,+91 8524779487
+MAT2919,Concrete,Flooring,Urban,5-10 years,Premium,Supplier_69,In Stock,41,High-rise buildings,0.67,Standard,+91 8122680822
+MAT2920,Plaster,Insulation,Industrial,25-50 years,Premium,Supplier_18,Limited,37,Infrastructure,0.86,Eco-friendly,+91 8911997440
+MAT2921,Vinyl,Other,Mountain,10-25 years,Economy,Supplier_45,Out of Stock,6,Industrial plants,0.33,Standard,+91 9747014289
+MAT2922,Laminate,Finishing,Moderate,5-10 years,Economy,Supplier_91,In Stock,30,Tunnels,0.15,Eco-friendly,+91 9064495443
+MAT2923,Bamboo,Decorative,Humid,50+ years,Economy,Supplier_91,Limited,37,High-rise buildings,0.09,Standard,+91 9064495443
+MAT2924,Recycled Plastic,Decorative,Cold,5-10 years,Premium,Supplier_99,Limited,32,Industrial plants,0.66,Eco-friendly,+91 7026320860
+MAT2925,Polycarbonate,Decorative,Dry,50+ years,Premium,Supplier_70,In Stock,45,Roads and highways,0.35,Standard,+91 8533177088
+MAT2926,Acrylic,Other,Moderate,25-50 years,Standard,Supplier_52,Out of Stock,44,Marine structures,0.4,Standard,+91 9350399941
+MAT2927,Foam,Insulation,Coastal,10-25 years,Luxury,Supplier_86,Out of Stock,9,Bridges,0.98,Standard,+91 9450871641
+MAT2928,Rubber,Structural,Mountain,10-25 years,Premium,Supplier_97,Limited,35,Roads and highways,0.53,Standard,+91 7508473815
+MAT2929,Other,Finishing,Rural,5-10 years,Economy,Supplier_24,In Stock,5,Infrastructure,0.96,Eco-friendly,+91 7116226044
+MAT2930,Limestone,Finishing,Dry,25-50 years,Economy,Supplier_63,In Stock,35,Other,0.17,Eco-friendly,+91 8654346090
+MAT2931,Marble,Structural,Dry,10-25 years,Luxury,Supplier_46,Limited,35,Other,0.7,Eco-friendly,+91 9553802633
+MAT2932,Paint,Facade,Urban,25-50 years,Standard,Supplier_20,Limited,6,Other,0.13,Eco-friendly,+91 7796737492
+MAT2933,Granite,Structural,Mountain,10-25 years,Economy,Supplier_1,Limited,35,Other,0.54,Eco-friendly,+91 9821243845
+MAT2934,Copper,Decorative,Other,10-25 years,Standard,Supplier_83,Limited,27,Other,0.79,Standard,+91 8349419107
+MAT2935,Ceramic Tile,Flooring,Dry,50+ years,Standard,Supplier_91,In Stock,48,Residential,0.6,Standard,+91 9064495443
+MAT2936,Adhesive,Decorative,Industrial,25-50 years,Economy,Supplier_66,Limited,52,Industrial plants,0.83,Eco-friendly,+91 8512956476
+MAT2937,Brick,Other,Industrial,5-10 years,Standard,Supplier_98,Limited,56,Residential,0.89,Standard,+91 9267705300
+MAT2938,Wood,Facade,Urban,10-25 years,Economy,Supplier_10,In Stock,40,Other,0.58,Standard,+91 9321334334
+MAT2939,Clay,Insulation,Dry,5-10 years,Premium,Supplier_40,Out of Stock,41,High-rise buildings,0.32,Eco-friendly,+91 9781709582
+MAT2940,Fiber,Facade,Mountain,25-50 years,Standard,Supplier_73,Limited,52,Airports,0.15,Standard,+91 7195736923
+MAT2941,Glass,Other,Mountain,5-10 years,Premium,Supplier_81,In Stock,53,Commercial,0.22,Standard,+91 8900263885
+MAT2942,Cement,Flooring,Urban,5-10 years,Standard,Supplier_70,Out of Stock,51,Bridges,0.81,Eco-friendly,+91 8533177088
+MAT2943,Steel,Other,Hot,5-10 years,Standard,Supplier_23,Out of Stock,59,High-rise buildings,0.45,Eco-friendly,+91 9315879498
+MAT2944,Aluminum,Structural,Urban,25-50 years,Premium,Supplier_73,In Stock,2,Roads and highways,0.65,Eco-friendly,+91 7195736923
+MAT2945,Gypsum,Insulation,Hot,25-50 years,Standard,Supplier_61,Limited,24,Infrastructure,0.75,Eco-friendly,+91 8696176323
+MAT2946,PVC,Finishing,Urban,25-50 years,Standard,Supplier_42,Limited,11,Infrastructure,0.01,Standard,+91 8406306174
+MAT2947,Bitumen,Facade,Humid,50+ years,Standard,Supplier_18,Limited,25,Infrastructure,0.84,Standard,+91 8911997440
+MAT2948,Asphalt,Flooring,Moderate,25-50 years,Luxury,Supplier_97,In Stock,49,High-rise buildings,0.23,Standard,+91 7508473815
+MAT2949,Sandstone,Structural,Rural,10-25 years,Luxury,Supplier_58,Out of Stock,54,Commercial,0.67,Eco-friendly,+91 8538848385
+MAT2950,Concrete,Other,Humid,50+ years,Economy,Supplier_58,Limited,34,Airports,0.69,Standard,+91 8538848385
+MAT2951,Plaster,Insulation,Industrial,5-10 years,Premium,Supplier_94,In Stock,54,Roads and highways,0.35,Eco-friendly,+91 9479368062
+MAT2952,Vinyl,Other,Moderate,50+ years,Premium,Supplier_20,In Stock,9,Airports,0.01,Eco-friendly,+91 7796737492
+MAT2953,Laminate,Insulation,Mountain,50+ years,Economy,Supplier_88,Out of Stock,35,High-rise buildings,0.01,Eco-friendly,+91 7610179969
+MAT2954,Bamboo,Flooring,Rural,25-50 years,Standard,Supplier_55,Limited,51,Roads and highways,0.73,Eco-friendly,+91 9963010084
+MAT2955,Recycled Plastic,Finishing,Dry,5-10 years,Luxury,Supplier_2,Out of Stock,20,Tunnels,0.52,Standard,+91 9176504598
+MAT2956,Polycarbonate,Insulation,Urban,25-50 years,Luxury,Supplier_1,Limited,26,Roads and highways,0.57,Standard,+91 9821243845
+MAT2957,Acrylic,Facade,Other,5-10 years,Luxury,Supplier_31,Out of Stock,10,Tunnels,0.44,Eco-friendly,+91 9023009642
+MAT2958,Foam,Facade,Other,10-25 years,Standard,Supplier_70,In Stock,10,Other,0.11,Eco-friendly,+91 8533177088
+MAT2959,Rubber,Flooring,Other,5-10 years,Economy,Supplier_11,In Stock,23,Infrastructure,0.19,Standard,+91 7562411160
+MAT2960,Other,Flooring,Moderate,10-25 years,Luxury,Supplier_3,Out of Stock,9,Tunnels,0.86,Standard,+91 9511694911
+MAT2961,Limestone,Insulation,Other,50+ years,Premium,Supplier_54,Limited,4,Infrastructure,0.7,Eco-friendly,+91 9458310307
+MAT2962,Marble,Insulation,Cold,5-10 years,Standard,Supplier_45,Limited,30,Infrastructure,0.2,Standard,+91 9747014289
+MAT2963,Paint,Insulation,Rural,5-10 years,Luxury,Supplier_85,In Stock,8,Airports,0.5,Standard,+91 7128338124
+MAT2964,Granite,Decorative,Cold,10-25 years,Premium,Supplier_81,In Stock,38,Airports,0.25,Standard,+91 8900263885
+MAT2965,Copper,Insulation,Mountain,50+ years,Premium,Supplier_14,Out of Stock,8,Infrastructure,0.32,Eco-friendly,+91 8073534258
+MAT2966,Ceramic Tile,Other,Rural,10-25 years,Luxury,Supplier_48,Out of Stock,5,Other,0.68,Eco-friendly,+91 9115647592
+MAT2967,Adhesive,Decorative,Other,25-50 years,Premium,Supplier_29,Out of Stock,3,Commercial,0.26,Eco-friendly,+91 8289363518
+MAT2968,Brick,Finishing,Industrial,25-50 years,Premium,Supplier_1,Out of Stock,23,Marine structures,0.43,Standard,+91 9821243845
+MAT2969,Wood,Facade,Mountain,25-50 years,Economy,Supplier_75,In Stock,48,Industrial plants,0.22,Eco-friendly,+91 7255077357
+MAT2970,Clay,Facade,Dry,5-10 years,Economy,Supplier_81,Out of Stock,36,Marine structures,0.07,Eco-friendly,+91 8900263885
+MAT2971,Fiber,Finishing,Urban,50+ years,Luxury,Supplier_50,Out of Stock,18,Infrastructure,0.17,Standard,+91 9224117961
+MAT2972,Glass,Other,Cold,50+ years,Premium,Supplier_70,Out of Stock,41,Infrastructure,0.69,Standard,+91 8533177088
+MAT2973,Cement,Decorative,Hot,10-25 years,Luxury,Supplier_59,In Stock,53,Bridges,0.71,Eco-friendly,+91 8073945840
+MAT2974,Steel,Finishing,Urban,5-10 years,Economy,Supplier_76,In Stock,21,Marine structures,0.61,Eco-friendly,+91 7852225914
+MAT2975,Aluminum,Decorative,Industrial,50+ years,Economy,Supplier_9,In Stock,21,Airports,0.95,Standard,+91 8602792578
+MAT2976,Gypsum,Finishing,Cold,10-25 years,Economy,Supplier_58,Out of Stock,15,Residential,0.8,Standard,+91 8538848385
+MAT2977,PVC,Finishing,Rural,5-10 years,Premium,Supplier_67,In Stock,20,High-rise buildings,0.36,Eco-friendly,+91 9809772815
+MAT2978,Bitumen,Finishing,Rural,50+ years,Economy,Supplier_76,Limited,53,Bridges,0.25,Standard,+91 7852225914
+MAT2979,Asphalt,Flooring,Humid,50+ years,Premium,Supplier_94,In Stock,33,Roads and highways,0,Eco-friendly,+91 9479368062
+MAT2980,Sandstone,Finishing,Coastal,10-25 years,Luxury,Supplier_63,In Stock,49,Marine structures,0.49,Eco-friendly,+91 8654346090
+MAT2981,Concrete,Other,Other,10-25 years,Economy,Supplier_69,In Stock,2,Bridges,0.12,Standard,+91 8122680822
+MAT2982,Plaster,Facade,Industrial,5-10 years,Economy,Supplier_14,In Stock,14,High-rise buildings,0.22,Standard,+91 8073534258
+MAT2983,Vinyl,Flooring,Other,25-50 years,Standard,Supplier_30,In Stock,40,Airports,0.64,Standard,+91 9297528863
+MAT2984,Laminate,Finishing,Humid,5-10 years,Standard,Supplier_5,In Stock,22,Residential,0.38,Eco-friendly,+91 7740385731
+MAT2985,Bamboo,Facade,Other,10-25 years,Economy,Supplier_32,In Stock,27,Infrastructure,0.11,Eco-friendly,+91 9984893047
+MAT2986,Recycled Plastic,Finishing,Mountain,25-50 years,Premium,Supplier_83,In Stock,56,Industrial plants,0.4,Eco-friendly,+91 8349419107
+MAT2987,Polycarbonate,Insulation,Coastal,5-10 years,Premium,Supplier_59,Out of Stock,58,Other,0.38,Standard,+91 8073945840
+MAT2988,Acrylic,Flooring,Industrial,50+ years,Premium,Supplier_98,In Stock,9,Residential,0.83,Eco-friendly,+91 9267705300
+MAT2989,Foam,Other,Mountain,50+ years,Premium,Supplier_10,Out of Stock,2,Tunnels,0.85,Standard,+91 9321334334
+MAT2990,Rubber,Flooring,Industrial,25-50 years,Luxury,Supplier_23,Out of Stock,55,Industrial plants,0.98,Standard,+91 9315879498
+MAT2991,Other,Flooring,Humid,25-50 years,Luxury,Supplier_94,Limited,60,Marine structures,0.16,Standard,+91 9479368062
+MAT2992,Limestone,Insulation,Mountain,50+ years,Standard,Supplier_71,Out of Stock,21,Roads and highways,0.66,Eco-friendly,+91 9665352711
+MAT2993,Marble,Decorative,Rural,25-50 years,Premium,Supplier_66,Out of Stock,15,Infrastructure,0.77,Standard,+91 8512956476
+MAT2994,Paint,Flooring,Other,50+ years,Standard,Supplier_72,Limited,13,Roads and highways,0.33,Standard,+91 7818119199
+MAT2995,Granite,Other,Rural,25-50 years,Premium,Supplier_68,Out of Stock,6,Bridges,0.6,Eco-friendly,+91 7549116721
+MAT2996,Copper,Facade,Hot,25-50 years,Standard,Supplier_78,In Stock,30,Residential,0.28,Standard,+91 8082914235
+MAT2997,Ceramic Tile,Facade,Mountain,25-50 years,Standard,Supplier_63,Out of Stock,16,Roads and highways,0.99,Eco-friendly,+91 8654346090
+MAT2998,Adhesive,Facade,Coastal,5-10 years,Premium,Supplier_32,Out of Stock,25,Infrastructure,0.67,Eco-friendly,+91 9984893047
+MAT2999,Brick,Decorative,Urban,50+ years,Premium,Supplier_99,Out of Stock,42,Other,0.61,Standard,+91 7026320860
+MAT3000,Wood,Decorative,Other,50+ years,Standard,Supplier_86,Limited,26,Roads and highways,0.1,Standard,+91 9450871641
+MAT3001,Clay,Finishing,Dry,5-10 years,Premium,Supplier_35,Limited,17,Roads and highways,0.33,Eco-friendly,+91 7672697773
+MAT3002,Fiber,Flooring,Mountain,10-25 years,Economy,Supplier_74,In Stock,33,Airports,0.46,Eco-friendly,+91 7134476577
+MAT3003,Glass,Facade,Cold,5-10 years,Economy,Supplier_16,In Stock,38,Residential,0.57,Standard,+91 8065031990
+MAT3004,Cement,Finishing,Rural,10-25 years,Premium,Supplier_97,Out of Stock,15,Industrial plants,0.77,Eco-friendly,+91 7508473815
+MAT3005,Steel,Finishing,Mountain,5-10 years,Luxury,Supplier_6,Out of Stock,4,Residential,0.57,Eco-friendly,+91 8728518031
+MAT3006,Aluminum,Finishing,Other,50+ years,Luxury,Supplier_46,In Stock,47,Marine structures,0.33,Standard,+91 9553802633
+MAT3007,Gypsum,Structural,Other,50+ years,Economy,Supplier_5,Limited,36,Residential,0.15,Standard,+91 7740385731
+MAT3008,PVC,Insulation,Urban,10-25 years,Premium,Supplier_50,Limited,28,Other,0.21,Eco-friendly,+91 9224117961
+MAT3009,Bitumen,Insulation,Coastal,5-10 years,Luxury,Supplier_94,Out of Stock,10,Residential,0.22,Standard,+91 9479368062
+MAT3010,Asphalt,Finishing,Coastal,50+ years,Standard,Supplier_61,Limited,56,Roads and highways,0.51,Standard,+91 8696176323
+MAT3011,Sandstone,Decorative,Urban,10-25 years,Premium,Supplier_63,Out of Stock,48,High-rise buildings,0.86,Standard,+91 8654346090
+MAT3012,Concrete,Insulation,Mountain,50+ years,Premium,Supplier_26,Limited,5,Infrastructure,0.91,Standard,+91 7207132227
+MAT3013,Plaster,Flooring,Hot,50+ years,Luxury,Supplier_69,In Stock,2,Marine structures,0.07,Standard,+91 8122680822
+MAT3014,Vinyl,Facade,Dry,25-50 years,Standard,Supplier_43,Limited,18,Airports,0.23,Standard,+91 9038438301
+MAT3015,Laminate,Structural,Dry,10-25 years,Standard,Supplier_89,In Stock,31,Bridges,0.66,Eco-friendly,+91 9969226517
+MAT3016,Bamboo,Facade,Moderate,10-25 years,Standard,Supplier_45,Out of Stock,20,Bridges,0.72,Eco-friendly,+91 9747014289
+MAT3017,Recycled Plastic,Flooring,Mountain,50+ years,Premium,Supplier_40,Out of Stock,44,High-rise buildings,0.38,Eco-friendly,+91 9781709582
+MAT3018,Polycarbonate,Facade,Other,50+ years,Luxury,Supplier_11,Out of Stock,16,Other,0.29,Standard,+91 7562411160
+MAT3019,Acrylic,Flooring,Rural,10-25 years,Premium,Supplier_98,Out of Stock,26,Other,0.59,Eco-friendly,+91 9267705300
+MAT3020,Foam,Other,Dry,25-50 years,Economy,Supplier_71,Out of Stock,1,Roads and highways,0.51,Eco-friendly,+91 9665352711
+MAT3021,Rubber,Other,Humid,50+ years,Economy,Supplier_21,In Stock,8,Infrastructure,0.31,Eco-friendly,+91 8310234613
+MAT3022,Other,Finishing,Cold,50+ years,Economy,Supplier_23,Limited,54,Commercial,0.63,Eco-friendly,+91 9315879498
+MAT3023,Limestone,Flooring,Other,10-25 years,Economy,Supplier_14,Limited,47,Industrial plants,0.71,Eco-friendly,+91 8073534258
+MAT3024,Marble,Decorative,Industrial,50+ years,Premium,Supplier_57,Limited,25,Bridges,0.98,Eco-friendly,+91 9189872626
+MAT3025,Paint,Other,Moderate,10-25 years,Standard,Supplier_44,Out of Stock,58,Airports,0.92,Standard,+91 9090351901
+MAT3026,Granite,Finishing,Other,25-50 years,Luxury,Supplier_8,Out of Stock,39,Other,0.1,Eco-friendly,+91 8464226483
+MAT3027,Copper,Finishing,Humid,50+ years,Premium,Supplier_63,Out of Stock,6,Other,0.02,Eco-friendly,+91 8654346090
+MAT3028,Ceramic Tile,Decorative,Hot,25-50 years,Economy,Supplier_19,In Stock,35,Roads and highways,0.88,Standard,+91 7314006623
+MAT3029,Adhesive,Structural,Urban,10-25 years,Economy,Supplier_16,Limited,40,Roads and highways,0.61,Standard,+91 8065031990
+MAT3030,Brick,Other,Hot,25-50 years,Economy,Supplier_10,Out of Stock,35,Bridges,0.71,Standard,+91 9321334334
+MAT3031,Wood,Decorative,Rural,50+ years,Luxury,Supplier_12,Out of Stock,22,Tunnels,0.91,Eco-friendly,+91 8882665594
+MAT3032,Clay,Decorative,Hot,25-50 years,Standard,Supplier_14,In Stock,35,Residential,0.09,Standard,+91 8073534258
+MAT3033,Fiber,Structural,Hot,10-25 years,Economy,Supplier_93,Limited,40,Roads and highways,0.43,Standard,+91 7108254575
+MAT3034,Glass,Finishing,Rural,50+ years,Premium,Supplier_64,In Stock,3,Airports,0.56,Standard,+91 7136693152
+MAT3035,Cement,Insulation,Urban,5-10 years,Luxury,Supplier_17,In Stock,58,Infrastructure,0.35,Standard,+91 8388837996
+MAT3036,Steel,Decorative,Hot,5-10 years,Premium,Supplier_25,Out of Stock,52,Tunnels,0.28,Eco-friendly,+91 8713885374
+MAT3037,Aluminum,Other,Humid,5-10 years,Standard,Supplier_64,In Stock,34,High-rise buildings,0.69,Eco-friendly,+91 7136693152
+MAT3038,Gypsum,Structural,Cold,50+ years,Economy,Supplier_58,Out of Stock,53,High-rise buildings,0.81,Standard,+91 8538848385
+MAT3039,PVC,Structural,Dry,5-10 years,Economy,Supplier_62,Limited,45,Other,0.29,Standard,+91 9124597330
+MAT3040,Bitumen,Finishing,Coastal,50+ years,Luxury,Supplier_66,Limited,14,Marine structures,0.02,Standard,+91 8512956476
+MAT3041,Asphalt,Insulation,Humid,5-10 years,Luxury,Supplier_49,In Stock,49,Infrastructure,0.6,Eco-friendly,+91 7981454092
+MAT3042,Sandstone,Finishing,Moderate,50+ years,Luxury,Supplier_95,Out of Stock,1,Industrial plants,0.58,Eco-friendly,+91 9970401522
+MAT3043,Concrete,Insulation,Other,5-10 years,Economy,Supplier_46,Limited,33,Roads and highways,0.76,Eco-friendly,+91 9553802633
+MAT3044,Plaster,Other,Humid,10-25 years,Economy,Supplier_91,Limited,30,Industrial plants,0.42,Eco-friendly,+91 9064495443
+MAT3045,Vinyl,Finishing,Urban,50+ years,Standard,Supplier_1,Out of Stock,59,Marine structures,0.98,Standard,+91 9821243845
+MAT3046,Laminate,Flooring,Coastal,5-10 years,Economy,Supplier_11,Limited,27,Other,0.39,Eco-friendly,+91 7562411160
+MAT3047,Bamboo,Other,Coastal,50+ years,Standard,Supplier_4,Out of Stock,38,Commercial,0.91,Standard,+91 9985896477
+MAT3048,Recycled Plastic,Decorative,Rural,5-10 years,Standard,Supplier_58,Limited,27,Marine structures,0.38,Standard,+91 8538848385
+MAT3049,Polycarbonate,Finishing,Urban,50+ years,Luxury,Supplier_55,Out of Stock,31,Infrastructure,0.47,Eco-friendly,+91 9963010084
+MAT3050,Acrylic,Other,Moderate,10-25 years,Economy,Supplier_8,Out of Stock,43,Tunnels,0.42,Eco-friendly,+91 8464226483
+MAT3051,Foam,Flooring,Other,25-50 years,Premium,Supplier_80,Limited,11,Bridges,0.46,Eco-friendly,+91 8234607783
+MAT3052,Rubber,Flooring,Coastal,50+ years,Economy,Supplier_16,In Stock,59,Airports,0.98,Eco-friendly,+91 8065031990
+MAT3053,Other,Structural,Urban,10-25 years,Luxury,Supplier_86,Limited,31,Airports,0.51,Standard,+91 9450871641
+MAT3054,Limestone,Insulation,Dry,25-50 years,Luxury,Supplier_37,Limited,23,Other,0.08,Standard,+91 9513313120
+MAT3055,Marble,Other,Mountain,5-10 years,Economy,Supplier_11,Limited,34,Residential,0.22,Standard,+91 7562411160
+MAT3056,Paint,Flooring,Dry,50+ years,Luxury,Supplier_18,Limited,50,Marine structures,0.68,Eco-friendly,+91 8911997440
+MAT3057,Granite,Finishing,Industrial,10-25 years,Premium,Supplier_12,In Stock,23,Roads and highways,0.68,Standard,+91 8882665594
+MAT3058,Copper,Facade,Hot,5-10 years,Luxury,Supplier_99,In Stock,53,Commercial,0.48,Standard,+91 7026320860
+MAT3059,Ceramic Tile,Insulation,Humid,50+ years,Standard,Supplier_5,Out of Stock,18,Marine structures,0.21,Eco-friendly,+91 7740385731
+MAT3060,Adhesive,Facade,Dry,5-10 years,Economy,Supplier_74,Out of Stock,5,Marine structures,0.71,Eco-friendly,+91 7134476577
+MAT3061,Brick,Flooring,Cold,50+ years,Standard,Supplier_72,Out of Stock,21,Industrial plants,0.28,Eco-friendly,+91 7818119199
+MAT3062,Wood,Decorative,Cold,50+ years,Standard,Supplier_57,In Stock,37,Marine structures,0.11,Standard,+91 9189872626
+MAT3063,Clay,Other,Dry,10-25 years,Economy,Supplier_31,Limited,57,Other,0.63,Eco-friendly,+91 9023009642
+MAT3064,Fiber,Insulation,Cold,10-25 years,Luxury,Supplier_15,Limited,35,Other,0.87,Standard,+91 9855764195
+MAT3065,Glass,Structural,Mountain,10-25 years,Premium,Supplier_76,In Stock,13,Commercial,0.21,Eco-friendly,+91 7852225914
+MAT3066,Cement,Facade,Mountain,10-25 years,Standard,Supplier_22,In Stock,25,High-rise buildings,0.61,Eco-friendly,+91 9800188482
+MAT3067,Steel,Structural,Urban,10-25 years,Premium,Supplier_71,Limited,59,Marine structures,0.42,Standard,+91 9665352711
+MAT3068,Aluminum,Other,Moderate,50+ years,Standard,Supplier_68,In Stock,7,Infrastructure,0.87,Standard,+91 7549116721
+MAT3069,Gypsum,Decorative,Humid,5-10 years,Economy,Supplier_75,In Stock,59,Roads and highways,0.58,Standard,+91 7255077357
+MAT3070,PVC,Other,Rural,25-50 years,Luxury,Supplier_28,Out of Stock,30,Tunnels,0.09,Eco-friendly,+91 8232645989
+MAT3071,Bitumen,Finishing,Cold,5-10 years,Standard,Supplier_87,Out of Stock,48,Tunnels,0.45,Eco-friendly,+91 9193943710
+MAT3072,Asphalt,Other,Cold,50+ years,Standard,Supplier_78,Limited,41,Other,0.59,Standard,+91 8082914235
+MAT3073,Sandstone,Structural,Rural,50+ years,Luxury,Supplier_80,Limited,59,Tunnels,0.94,Standard,+91 8234607783
+MAT3074,Concrete,Finishing,Rural,5-10 years,Standard,Supplier_2,In Stock,42,Roads and highways,0.04,Eco-friendly,+91 9176504598
+MAT3075,Plaster,Facade,Dry,5-10 years,Luxury,Supplier_62,Out of Stock,2,Airports,0.98,Eco-friendly,+91 9124597330
+MAT3076,Vinyl,Flooring,Humid,50+ years,Luxury,Supplier_10,Limited,39,Residential,0.42,Standard,+91 9321334334
+MAT3077,Laminate,Insulation,Rural,10-25 years,Luxury,Supplier_95,Limited,44,High-rise buildings,0.13,Eco-friendly,+91 9970401522
+MAT3078,Bamboo,Flooring,Urban,25-50 years,Standard,Supplier_13,Limited,48,Commercial,0.8,Eco-friendly,+91 8348536286
+MAT3079,Recycled Plastic,Facade,Coastal,25-50 years,Premium,Supplier_96,Out of Stock,8,Roads and highways,0.04,Eco-friendly,+91 8913440148
+MAT3080,Polycarbonate,Facade,Other,5-10 years,Luxury,Supplier_9,In Stock,30,High-rise buildings,0.67,Eco-friendly,+91 8602792578
+MAT3081,Acrylic,Flooring,Rural,50+ years,Standard,Supplier_59,Limited,51,Tunnels,0.03,Eco-friendly,+91 8073945840
+MAT3082,Foam,Decorative,Industrial,10-25 years,Economy,Supplier_15,Limited,13,Marine structures,0.1,Standard,+91 9855764195
+MAT3083,Rubber,Other,Other,10-25 years,Premium,Supplier_19,Out of Stock,7,Bridges,0.8,Eco-friendly,+91 7314006623
+MAT3084,Other,Flooring,Mountain,5-10 years,Economy,Supplier_60,Out of Stock,47,Marine structures,0.95,Standard,+91 7340314826
+MAT3085,Limestone,Insulation,Hot,10-25 years,Economy,Supplier_53,In Stock,11,Roads and highways,0.38,Eco-friendly,+91 7870047913
+MAT3086,Marble,Other,Cold,50+ years,Luxury,Supplier_30,Limited,24,Roads and highways,0.63,Standard,+91 9297528863
+MAT3087,Paint,Finishing,Moderate,10-25 years,Luxury,Supplier_95,Out of Stock,39,Bridges,0.33,Standard,+91 9970401522
+MAT3088,Granite,Structural,Humid,10-25 years,Luxury,Supplier_13,Limited,23,Tunnels,0.4,Eco-friendly,+91 8348536286
+MAT3089,Copper,Structural,Moderate,50+ years,Standard,Supplier_75,Out of Stock,13,Industrial plants,0.3,Eco-friendly,+91 7255077357
+MAT3090,Ceramic Tile,Structural,Humid,50+ years,Economy,Supplier_96,Limited,3,High-rise buildings,0.88,Standard,+91 8913440148
+MAT3091,Adhesive,Finishing,Industrial,5-10 years,Premium,Supplier_35,Limited,1,Other,0.35,Eco-friendly,+91 7672697773
+MAT3092,Brick,Structural,Other,10-25 years,Economy,Supplier_41,In Stock,10,Marine structures,0.14,Eco-friendly,+91 7742047658
+MAT3093,Wood,Structural,Industrial,10-25 years,Economy,Supplier_22,In Stock,57,Industrial plants,0.34,Eco-friendly,+91 9800188482
+MAT3094,Clay,Finishing,Coastal,10-25 years,Economy,Supplier_85,Limited,55,Airports,0.97,Eco-friendly,+91 7128338124
+MAT3095,Fiber,Facade,Industrial,25-50 years,Standard,Supplier_36,Limited,60,Infrastructure,0.81,Eco-friendly,+91 9803405485
+MAT3096,Glass,Finishing,Hot,25-50 years,Standard,Supplier_76,Out of Stock,7,Airports,0.62,Eco-friendly,+91 7852225914
+MAT3097,Cement,Decorative,Dry,25-50 years,Economy,Supplier_96,In Stock,3,Industrial plants,0.98,Standard,+91 8913440148
+MAT3098,Steel,Insulation,Hot,50+ years,Premium,Supplier_8,Limited,1,Commercial,0.3,Standard,+91 8464226483
+MAT3099,Aluminum,Insulation,Mountain,10-25 years,Premium,Supplier_86,Out of Stock,37,Bridges,0.93,Standard,+91 9450871641
+MAT3100,Gypsum,Facade,Humid,10-25 years,Luxury,Supplier_80,Out of Stock,4,Other,0.72,Standard,+91 8234607783
+MAT3101,PVC,Decorative,Cold,50+ years,Premium,Supplier_35,Limited,14,Residential,0.21,Standard,+91 7672697773
+MAT3102,Bitumen,Structural,Rural,50+ years,Standard,Supplier_85,Out of Stock,12,Airports,0.22,Eco-friendly,+91 7128338124
+MAT3103,Asphalt,Flooring,Moderate,5-10 years,Standard,Supplier_98,Limited,54,Residential,0.52,Eco-friendly,+91 9267705300
+MAT3104,Sandstone,Structural,Mountain,50+ years,Premium,Supplier_11,Out of Stock,44,Airports,0.88,Standard,+91 7562411160
+MAT3105,Concrete,Decorative,Dry,50+ years,Luxury,Supplier_56,Out of Stock,13,Bridges,0.87,Standard,+91 7103766984
+MAT3106,Plaster,Insulation,Cold,25-50 years,Luxury,Supplier_65,Limited,54,Commercial,0.85,Eco-friendly,+91 7085298648
+MAT3107,Vinyl,Finishing,Moderate,25-50 years,Economy,Supplier_77,In Stock,28,Bridges,0.09,Standard,+91 9060217800
+MAT3108,Laminate,Facade,Other,50+ years,Economy,Supplier_18,Out of Stock,5,Roads and highways,0.27,Standard,+91 8911997440
+MAT3109,Bamboo,Decorative,Cold,10-25 years,Luxury,Supplier_1,Limited,9,High-rise buildings,0.65,Eco-friendly,+91 9821243845
+MAT3110,Recycled Plastic,Facade,Cold,50+ years,Luxury,Supplier_4,In Stock,49,Marine structures,0.49,Standard,+91 9985896477
+MAT3111,Polycarbonate,Facade,Industrial,25-50 years,Premium,Supplier_63,In Stock,5,Infrastructure,0.35,Eco-friendly,+91 8654346090
+MAT3112,Acrylic,Structural,Other,50+ years,Premium,Supplier_57,Limited,15,High-rise buildings,0.35,Eco-friendly,+91 9189872626
+MAT3113,Foam,Insulation,Coastal,50+ years,Premium,Supplier_100,Limited,20,Airports,0.18,Eco-friendly,+91 9271768077
+MAT3114,Rubber,Flooring,Humid,25-50 years,Economy,Supplier_59,Out of Stock,51,Bridges,0.51,Eco-friendly,+91 8073945840
+MAT3115,Other,Other,Humid,25-50 years,Premium,Supplier_30,In Stock,30,High-rise buildings,0.14,Eco-friendly,+91 9297528863
+MAT3116,Limestone,Structural,Industrial,25-50 years,Premium,Supplier_16,Limited,5,Commercial,0.36,Standard,+91 8065031990
+MAT3117,Marble,Structural,Coastal,25-50 years,Premium,Supplier_18,Limited,24,Bridges,0.96,Standard,+91 8911997440
+MAT3118,Paint,Flooring,Mountain,50+ years,Luxury,Supplier_23,Limited,25,High-rise buildings,0.93,Eco-friendly,+91 9315879498
+MAT3119,Granite,Structural,Dry,25-50 years,Economy,Supplier_51,Limited,33,Industrial plants,0.96,Standard,+91 8070304578
+MAT3120,Copper,Facade,Industrial,25-50 years,Economy,Supplier_57,Out of Stock,5,Bridges,0.57,Standard,+91 9189872626
+MAT3121,Ceramic Tile,Other,Rural,25-50 years,Luxury,Supplier_14,Out of Stock,44,Industrial plants,0.81,Eco-friendly,+91 8073534258
+MAT3122,Adhesive,Decorative,Coastal,25-50 years,Economy,Supplier_23,In Stock,54,Infrastructure,0.56,Standard,+91 9315879498
+MAT3123,Brick,Decorative,Dry,25-50 years,Premium,Supplier_77,Out of Stock,55,Marine structures,0.26,Eco-friendly,+91 9060217800
+MAT3124,Wood,Flooring,Humid,50+ years,Luxury,Supplier_9,Out of Stock,11,Industrial plants,0.01,Eco-friendly,+91 8602792578
+MAT3125,Clay,Facade,Dry,10-25 years,Standard,Supplier_30,Limited,37,Infrastructure,0.79,Standard,+91 9297528863
+MAT3126,Fiber,Decorative,Cold,25-50 years,Standard,Supplier_56,In Stock,36,Infrastructure,0.7,Standard,+91 7103766984
+MAT3127,Glass,Insulation,Dry,10-25 years,Premium,Supplier_92,Limited,21,Airports,0.56,Standard,+91 8403005864
+MAT3128,Cement,Decorative,Humid,10-25 years,Standard,Supplier_58,Out of Stock,9,Roads and highways,0.54,Eco-friendly,+91 8538848385
+MAT3129,Steel,Flooring,Hot,5-10 years,Economy,Supplier_19,In Stock,40,Airports,0.54,Standard,+91 7314006623
+MAT3130,Aluminum,Facade,Rural,5-10 years,Standard,Supplier_50,Limited,20,Residential,0.39,Eco-friendly,+91 9224117961
+MAT3131,Gypsum,Other,Industrial,25-50 years,Premium,Supplier_99,Limited,16,Commercial,0.06,Standard,+91 7026320860
+MAT3132,PVC,Other,Mountain,25-50 years,Premium,Supplier_96,Limited,52,Roads and highways,0.48,Standard,+91 8913440148
+MAT3133,Bitumen,Finishing,Rural,5-10 years,Standard,Supplier_15,In Stock,32,Infrastructure,0.75,Standard,+91 9855764195
+MAT3134,Asphalt,Finishing,Cold,25-50 years,Standard,Supplier_1,Limited,31,Marine structures,0.09,Standard,+91 9821243845
+MAT3135,Sandstone,Facade,Coastal,50+ years,Standard,Supplier_59,Out of Stock,55,High-rise buildings,0.95,Eco-friendly,+91 8073945840
+MAT3136,Concrete,Other,Moderate,10-25 years,Economy,Supplier_96,In Stock,24,High-rise buildings,0.73,Eco-friendly,+91 8913440148
+MAT3137,Plaster,Facade,Moderate,25-50 years,Luxury,Supplier_31,In Stock,32,Bridges,0.1,Standard,+91 9023009642
+MAT3138,Vinyl,Flooring,Coastal,5-10 years,Standard,Supplier_2,In Stock,58,Tunnels,0.65,Standard,+91 9176504598
+MAT3139,Laminate,Other,Dry,25-50 years,Luxury,Supplier_37,Out of Stock,9,Commercial,0.44,Standard,+91 9513313120
+MAT3140,Bamboo,Decorative,Moderate,50+ years,Luxury,Supplier_6,In Stock,49,Residential,0.98,Eco-friendly,+91 8728518031
+MAT3141,Recycled Plastic,Other,Industrial,25-50 years,Premium,Supplier_65,In Stock,41,Industrial plants,0.55,Standard,+91 7085298648
+MAT3142,Polycarbonate,Finishing,Other,5-10 years,Standard,Supplier_62,Limited,57,Industrial plants,0.55,Standard,+91 9124597330
+MAT3143,Acrylic,Decorative,Coastal,10-25 years,Luxury,Supplier_62,Out of Stock,20,Airports,0.93,Standard,+91 9124597330
+MAT3144,Foam,Facade,Coastal,5-10 years,Premium,Supplier_10,Out of Stock,23,Bridges,0.32,Eco-friendly,+91 9321334334
+MAT3145,Rubber,Flooring,Mountain,10-25 years,Economy,Supplier_37,Limited,43,Other,0.26,Standard,+91 9513313120
+MAT3146,Other,Other,Mountain,25-50 years,Economy,Supplier_96,In Stock,5,Commercial,0.76,Standard,+91 8913440148
+MAT3147,Limestone,Other,Hot,50+ years,Standard,Supplier_100,Out of Stock,51,Other,0.32,Standard,+91 9271768077
+MAT3148,Marble,Facade,Industrial,5-10 years,Economy,Supplier_29,Out of Stock,10,Bridges,0.84,Standard,+91 8289363518
+MAT3149,Paint,Insulation,Industrial,25-50 years,Standard,Supplier_33,In Stock,49,High-rise buildings,0.34,Eco-friendly,+91 8687011225
+MAT3150,Granite,Facade,Urban,10-25 years,Premium,Supplier_62,In Stock,45,Commercial,0.93,Standard,+91 9124597330
+MAT3151,Copper,Flooring,Hot,50+ years,Economy,Supplier_99,In Stock,33,Commercial,0.28,Eco-friendly,+91 7026320860
+MAT3152,Ceramic Tile,Finishing,Mountain,50+ years,Luxury,Supplier_99,Out of Stock,26,High-rise buildings,0.79,Standard,+91 7026320860
+MAT3153,Adhesive,Facade,Humid,5-10 years,Premium,Supplier_60,Out of Stock,16,Airports,0.19,Standard,+91 7340314826
+MAT3154,Brick,Flooring,Cold,50+ years,Luxury,Supplier_85,In Stock,48,Airports,0.39,Eco-friendly,+91 7128338124
+MAT3155,Wood,Finishing,Industrial,5-10 years,Luxury,Supplier_42,In Stock,35,Tunnels,0.09,Eco-friendly,+91 8406306174
+MAT3156,Clay,Other,Hot,25-50 years,Luxury,Supplier_99,Limited,4,Other,0.49,Eco-friendly,+91 7026320860
+MAT3157,Fiber,Decorative,Moderate,50+ years,Economy,Supplier_20,In Stock,55,Tunnels,0.51,Eco-friendly,+91 7796737492
+MAT3158,Glass,Insulation,Hot,50+ years,Premium,Supplier_30,In Stock,11,Residential,0.47,Standard,+91 9297528863
+MAT3159,Cement,Decorative,Industrial,50+ years,Premium,Supplier_16,In Stock,40,Commercial,0.21,Eco-friendly,+91 8065031990
+MAT3160,Steel,Finishing,Humid,50+ years,Luxury,Supplier_66,Out of Stock,43,Tunnels,0.14,Eco-friendly,+91 8512956476
+MAT3161,Aluminum,Flooring,Industrial,10-25 years,Premium,Supplier_23,In Stock,6,Tunnels,0.21,Eco-friendly,+91 9315879498
+MAT3162,Gypsum,Structural,Urban,50+ years,Premium,Supplier_52,In Stock,39,Residential,0.13,Eco-friendly,+91 9350399941
+MAT3163,PVC,Finishing,Rural,5-10 years,Premium,Supplier_64,Out of Stock,41,Commercial,1,Eco-friendly,+91 7136693152
+MAT3164,Bitumen,Facade,Urban,5-10 years,Economy,Supplier_54,Out of Stock,32,Marine structures,0.7,Eco-friendly,+91 9458310307
+MAT3165,Asphalt,Finishing,Dry,10-25 years,Luxury,Supplier_18,Out of Stock,18,High-rise buildings,0.42,Eco-friendly,+91 8911997440
+MAT3166,Sandstone,Flooring,Cold,5-10 years,Standard,Supplier_72,In Stock,31,Tunnels,0.38,Eco-friendly,+91 7818119199
+MAT3167,Concrete,Decorative,Industrial,5-10 years,Luxury,Supplier_89,Out of Stock,25,Commercial,0.78,Standard,+91 9969226517
+MAT3168,Plaster,Finishing,Industrial,5-10 years,Economy,Supplier_84,In Stock,60,Commercial,0.56,Standard,+91 9340399355
+MAT3169,Vinyl,Flooring,Rural,50+ years,Standard,Supplier_49,Out of Stock,23,Other,0.5,Eco-friendly,+91 7981454092
+MAT3170,Laminate,Facade,Rural,5-10 years,Premium,Supplier_95,Limited,30,Tunnels,0.47,Eco-friendly,+91 9970401522
+MAT3171,Bamboo,Decorative,Humid,5-10 years,Premium,Supplier_6,Out of Stock,51,Bridges,0.83,Standard,+91 8728518031
+MAT3172,Recycled Plastic,Insulation,Moderate,25-50 years,Premium,Supplier_17,Out of Stock,25,Infrastructure,0.37,Standard,+91 8388837996
+MAT3173,Polycarbonate,Insulation,Mountain,10-25 years,Standard,Supplier_12,In Stock,50,Industrial plants,0.87,Standard,+91 8882665594
+MAT3174,Acrylic,Finishing,Moderate,5-10 years,Luxury,Supplier_98,Out of Stock,7,Bridges,0.88,Standard,+91 9267705300
+MAT3175,Foam,Structural,Coastal,25-50 years,Premium,Supplier_75,Out of Stock,18,Airports,0.34,Standard,+91 7255077357
+MAT3176,Rubber,Other,Mountain,10-25 years,Premium,Supplier_3,Limited,11,Other,0.42,Eco-friendly,+91 9511694911
+MAT3177,Other,Flooring,Coastal,25-50 years,Luxury,Supplier_18,Limited,18,Infrastructure,0.46,Standard,+91 8911997440
+MAT3178,Limestone,Insulation,Urban,50+ years,Standard,Supplier_68,Limited,54,Roads and highways,0.21,Standard,+91 7549116721
+MAT3179,Marble,Decorative,Cold,10-25 years,Standard,Supplier_20,In Stock,4,Tunnels,0.11,Eco-friendly,+91 7796737492
+MAT3180,Paint,Flooring,Urban,5-10 years,Economy,Supplier_7,Out of Stock,37,Commercial,0.54,Eco-friendly,+91 7548899649
+MAT3181,Granite,Insulation,Humid,50+ years,Standard,Supplier_11,Out of Stock,51,Tunnels,0.3,Eco-friendly,+91 7562411160
+MAT3182,Copper,Other,Coastal,25-50 years,Premium,Supplier_12,In Stock,41,Tunnels,0.05,Eco-friendly,+91 8882665594
+MAT3183,Ceramic Tile,Structural,Humid,10-25 years,Premium,Supplier_100,Limited,8,Industrial plants,0.06,Standard,+91 9271768077
+MAT3184,Adhesive,Structural,Urban,25-50 years,Economy,Supplier_12,Out of Stock,40,Residential,0.98,Eco-friendly,+91 8882665594
+MAT3185,Brick,Flooring,Hot,50+ years,Luxury,Supplier_42,In Stock,58,Airports,0.97,Standard,+91 8406306174
+MAT3186,Wood,Facade,Industrial,5-10 years,Standard,Supplier_52,Out of Stock,26,High-rise buildings,0.71,Eco-friendly,+91 9350399941
+MAT3187,Clay,Flooring,Moderate,5-10 years,Luxury,Supplier_48,Out of Stock,10,Commercial,0.17,Eco-friendly,+91 9115647592
+MAT3188,Fiber,Other,Cold,50+ years,Economy,Supplier_24,Limited,23,Roads and highways,1,Standard,+91 7116226044
+MAT3189,Glass,Facade,Dry,25-50 years,Economy,Supplier_81,Limited,37,Roads and highways,0.89,Eco-friendly,+91 8900263885
+MAT3190,Cement,Insulation,Moderate,25-50 years,Premium,Supplier_9,Limited,35,Bridges,0.23,Standard,+91 8602792578
+MAT3191,Steel,Other,Mountain,25-50 years,Economy,Supplier_89,Limited,32,Roads and highways,0.49,Standard,+91 9969226517
+MAT3192,Aluminum,Decorative,Industrial,5-10 years,Economy,Supplier_8,In Stock,23,Infrastructure,0.75,Standard,+91 8464226483
+MAT3193,Gypsum,Flooring,Industrial,25-50 years,Premium,Supplier_73,Limited,19,Infrastructure,0.59,Standard,+91 7195736923
+MAT3194,PVC,Structural,Industrial,25-50 years,Luxury,Supplier_42,Out of Stock,10,Airports,0.3,Standard,+91 8406306174
+MAT3195,Bitumen,Structural,Mountain,5-10 years,Standard,Supplier_76,Limited,44,Industrial plants,0.05,Eco-friendly,+91 7852225914
+MAT3196,Asphalt,Insulation,Dry,10-25 years,Luxury,Supplier_55,Out of Stock,27,Roads and highways,0.75,Standard,+91 9963010084
+MAT3197,Sandstone,Flooring,Industrial,25-50 years,Economy,Supplier_34,Out of Stock,46,Infrastructure,0.9,Eco-friendly,+91 7166009399
+MAT3198,Concrete,Decorative,Humid,25-50 years,Premium,Supplier_22,Limited,53,Tunnels,0.08,Standard,+91 9800188482
+MAT3199,Plaster,Insulation,Rural,25-50 years,Standard,Supplier_28,Out of Stock,26,Airports,0.98,Eco-friendly,+91 8232645989

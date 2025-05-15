@@ -1,0 +1,15 @@
+username,password,role
+johnson,$2b$12$C81MkCiC6D5r5c6loNYSM.tUE.ZvJ47LKxWWoxKfLXVtDf0S7eo2a,Admin
+sharma,$2b$12$I1kr4Y.o5EXFi7hNCkZhAehqo7ipgkDlmctnwkVg0/8H/Zx/8qqeu,User
+varma,$2b$12$myN.7MN6jn0LOw9BsHY9tOTr9g2k.FUkwzf/EMALKcyVflReKFgRi,Supplier
+singh,$2b$12$iPg2X7nLVCf3yeFussauoO1C1PDn/EggL0h38VtpsZzJSKGwNyc2.,Supplier
+dev,$2b$12$cA5RU4QTpt/RUbybU/18XufcY.C4korRliz67vxgMfAOsOH6UqBI.,Admin
+patel,$2b$12$00bNBdfxnXHOyQFXyxu.1OYeHUI/ulI0PC7Gx7E65GIn6wVMnX3am,Supplier
+reddy,$2b$12$nG7pA9N2U9X/F0nGvzBkBeF07ua34so4SCRd3XOnlsPPck/PZujPS,Admin
+keerti,$2b$12$0ytTkXGgTH2MXu3PsGsklOYglx3QHq5MQ1o12DMePFrUktmcXjyxa,User
+ramesh,$2b$12$TUVfYE3kcvKZv.9phJC.8OVA96e4yXoHZK.ywYXLoiuP400D4icXa,User
+meena,$2b$12$FQDXyajEpUUKEQkNty73MORxY55aHhVcPK7Mcnrwm2bNJf5TznyWm,Supplier
+jack,$2b$12$qWLw7OjpGRtHMapgHYj6EOPjF3CTk7u2NiiviYQQaA/H1gFE6w/OK,Admin
+Ravi,$2b$12$Lhxl8AjzA9JWegOg2ART/.WKJt7bk5UyXl07/GMbgbMFpLjOebca6,User
+Kiran,$2b$12$ms9lQ/IHc7sfIBG5qqG/4eudVaobMBskwtQC0UohZ6ncB4M3zuqyu,User
+shruti,$2b$12$VIW1ZaBUJzI.byg.ugp5sumVmPHJR0Id5e2p0tsc3ad495CEyrNQ2,Supplier
