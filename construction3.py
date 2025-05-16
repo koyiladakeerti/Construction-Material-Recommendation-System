@@ -53,7 +53,7 @@ def floating_chatbot():
             background: white;
             border-radius: 10px;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);
-            padding: 15px;
+            padding: 0px;
             z-index: 10000;
         }
         </style>
@@ -68,7 +68,7 @@ def floating_chatbot():
     # Chat container UI
     if st.session_state.chatbot_open:
         st.markdown('<div class="chat-container">', unsafe_allow_html=True)
-        st.markdown("#### Gemini Chatbot")
+        st.markdown("####Chatbot")
         user_input = st.text_area("Ask something:", value=st.session_state.chat_input, key="chat_input_text")
 
         col1, col2 = st.columns(2)
