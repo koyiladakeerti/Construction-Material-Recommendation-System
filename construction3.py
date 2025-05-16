@@ -68,7 +68,7 @@ def floating_chatbot():
     # Chat container UI
     if st.session_state.chatbot_open:
         st.markdown('<div class="chat-container">', unsafe_allow_html=True)
-        st.markdown("####Chatbot")
+        st.markdown("Chatbot")
         user_input = st.text_area("Ask something:", value=st.session_state.chat_input, key="chat_input_text")
 
         col1, col2 = st.columns(2)
